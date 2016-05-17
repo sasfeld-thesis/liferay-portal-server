@@ -1,0 +1,664 @@
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server version:        Apache Tomcat/7.0.62
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server built:          May 7 2015 17:14:55 UTC
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server number:         7.0.62.0
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Name:               Windows 8.1
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Version:            6.3
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Architecture:          amd64
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Java Home:             c:\java\jdk1.8.0_25\jre
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Version:           1.8.0_25-b18
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Vendor:            Oracle Corporation
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_BASE:         c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_HOME:         c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.config.file=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/conf/logging.properties
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dfile.encoding=UTF8
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.net.preferIPv4Stack=true
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dorg.apache.catalina.loader.WebappClassLoader.ENABLE_CLEAR_REFERENCES=false
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Duser.timezone=GMT
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Xmx1024m
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -XX:MaxPermSize=256m
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.endorsed.dirs=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/endorsed
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.base=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.home=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.io.tmpdir=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp
+Mai 17, 2016 9:36:42 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFORMATION: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: c:\java\jdk1.8.0_25\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\slash1990\bin;.;C:\Program Files (x86)\Git\local\bin;C:\Program Files (x86)\Git\mingw\bin;C:\Program Files (x86)\Git\bin;c:\Program Files\ImageMagick-6.9.1-Q16;c:\activator;c:\java\jdk1.8.0_25\bin;c:\Windows\system32;c:\Windows;c:\Windows\System32\Wbem;c:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\ThinkPad\Bluetooth Software\;c:\Program Files\ThinkPad\Bluetooth Software\syswow64;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;c:\Program Files (x86)\Common Files\Ulead Systems\MPEG;c:\Program Files (x86)\Lenovo\Access Connections\;c:\SWTOOLS\ReadyApps;c:\Program Files (x86)\Common Files\Lenovo;c:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;c:\xampp\php;c:\xampp\php\ext;c:\xampp\pqsql\lib;c:\xampp\pqsql\bin;c:\xampp\mysql\bin;c:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;c:\Program Files\apache-maven-3.2.3\bin;c:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\Git\cmd;c:\rubygems-2.4.2\bin;c:\Ruby21\bin;c:\Program Files (x86)\QuickTime\QTSystem\;c:\Program Files\TortoiseGit\bin;c:\Program Files\sbt\sbt-0.13.8\sbt\bin;c:\Program Files (x86)\nodejs\;c:\sqlite;c:\Program Files (x86)\Skype\Phone\;c:\WINDOWS\system32;c:\WINDOWS;c:\WINDOWS\System32\Wbem;c:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Vagrant\bin;c:\Programme\Boot2Docker for Windows;c:\Users\slash1990\AppData\Roaming\npm;.
+Mai 17, 2016 9:36:43 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 9:36:43 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 9:36:43 AM org.apache.catalina.startup.Catalina load
+INFORMATION: Initialization processed in 715 ms
+Mai 17, 2016 9:36:43 AM org.apache.catalina.core.StandardService startInternal
+INFORMATION: Starting service Catalina
+Mai 17, 2016 9:36:43 AM org.apache.catalina.core.StandardEngine startInternal
+INFORMATION: Starting Servlet Engine: Apache Tomcat/7.0.62
+Mai 17, 2016 9:36:43 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deploying configuration descriptor C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml
+Mai 17, 2016 9:36:56 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:17 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deployment of configuration descriptor C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml has finished in 94,705 ms
+Mai 17, 2016 9:38:17 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\calendar-portlet
+Mai 17, 2016 9:38:19 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:19 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\calendar-portlet has finished in 2,023 ms
+Mai 17, 2016 9:38:19 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\kaleo-web
+Mai 17, 2016 9:38:22 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:22 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\kaleo-web has finished in 2,494 ms
+Mai 17, 2016 9:38:22 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\marketplace-portlet
+Mai 17, 2016 9:38:23 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:23 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\marketplace-portlet has finished in 1,208 ms
+Mai 17, 2016 9:38:23 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\notifications-portlet
+Mai 17, 2016 9:38:24 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\notifications-portlet has finished in 1,218 ms
+Mai 17, 2016 9:38:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\opensocial-portlet
+Mai 17, 2016 9:38:26 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:26 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\opensocial-portlet has finished in 2,062 ms
+Mai 17, 2016 9:38:26 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\resources-importer-web
+Mai 17, 2016 9:38:27 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\resources-importer-web has finished in 750 ms
+Mai 17, 2016 9:38:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\sync-web
+Mai 17, 2016 9:38:28 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:28 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\sync-web has finished in 1,089 ms
+Mai 17, 2016 9:38:28 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\web-form-portlet
+Mai 17, 2016 9:38:29 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:29 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\web-form-portlet has finished in 882 ms
+Mai 17, 2016 9:38:29 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 9:38:29 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 9:38:29 AM org.apache.catalina.startup.Catalina start
+INFORMATION: Server startup in 106503 ms
+Mai 17, 2016 9:42:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\qg-portlet
+Mai 17, 2016 9:42:11 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:42:11 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\qg-portlet has finished in 1,679 ms
+Mai 17, 2016 9:47:03 AM org.apache.shindig.config.JsonContainerConfig loadContainers
+INFORMATION: Loading resources from: containers/default/container.js
+Mai 17, 2016 9:47:03 AM org.apache.shindig.config.JsonContainerConfig loadResources
+INFORMATION: Reading container config: containers/default/container.js
+Mai 17, 2016 9:47:03 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features-extras/features.txt
+Mai 17, 2016 9:47:03 AM org.apache.shindig.common.xml.XmlUtil <clinit>
+INFORMATION: Reusing document builders
+Mai 17, 2016 9:47:05 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features/features.txt
+Mai 17, 2016 9:47:12 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@745e4324
+Mai 17, 2016 9:47:12 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@745e4324
+Mai 17, 2016 9:47:12 AM org.apache.shindig.gadgets.oauth.OAuthModule$OAuthCrypterProvider <init>
+INFORMATION: Using random key for OAuth client-side state encryption
+Mai 17, 2016 10:10:36 AM org.apache.coyote.AbstractProtocol pause
+INFORMATION: Pausing ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:10:36 AM org.apache.coyote.AbstractProtocol pause
+INFORMATION: Pausing ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:10:37 AM org.apache.catalina.core.StandardService stopInternal
+INFORMATION: Stopping service Catalina
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [HSQLDB Timer @3d7e0081] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [org.python.google.common.base.internal.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#0] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#1] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#2] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#3] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#4] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#5] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#6] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#7] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#8] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#9] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#0] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#1] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#2] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#3] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#4] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#5] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#6] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#7] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#8] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#9] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [Thread-103] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [Thread-104] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:41 AM org.apache.coyote.AbstractProtocol stop
+INFORMATION: Stopping ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:10:41 AM org.apache.coyote.AbstractProtocol stop
+INFORMATION: Stopping ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:10:41 AM org.apache.coyote.AbstractProtocol destroy
+INFORMATION: Destroying ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:10:41 AM org.apache.coyote.AbstractProtocol destroy
+INFORMATION: Destroying ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server version:        Apache Tomcat/7.0.62
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server built:          May 7 2015 17:14:55 UTC
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server number:         7.0.62.0
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Name:               Windows 8.1
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Version:            6.3
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Architecture:          amd64
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Java Home:             c:\java\jdk1.8.0_25\jre
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Version:           1.8.0_25-b18
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Vendor:            Oracle Corporation
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_BASE:         c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_HOME:         c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.config.file=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/conf/logging.properties
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dfile.encoding=UTF8
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.net.preferIPv4Stack=true
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dorg.apache.catalina.loader.WebappClassLoader.ENABLE_CLEAR_REFERENCES=false
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Duser.timezone=GMT
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Xmx1024m
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -XX:MaxPermSize=256m
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.endorsed.dirs=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/endorsed
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.base=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.home=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.io.tmpdir=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp
+Mai 17, 2016 10:31:54 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFORMATION: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: c:\java\jdk1.8.0_25\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\slash1990\bin;.;C:\Program Files (x86)\Git\local\bin;C:\Program Files (x86)\Git\mingw\bin;C:\Program Files (x86)\Git\bin;c:\Program Files\ImageMagick-6.9.1-Q16;c:\activator;c:\java\jdk1.8.0_25\bin;c:\Windows\system32;c:\Windows;c:\Windows\System32\Wbem;c:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\ThinkPad\Bluetooth Software\;c:\Program Files\ThinkPad\Bluetooth Software\syswow64;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;c:\Program Files (x86)\Common Files\Ulead Systems\MPEG;c:\Program Files (x86)\Lenovo\Access Connections\;c:\SWTOOLS\ReadyApps;c:\Program Files (x86)\Common Files\Lenovo;c:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;c:\xampp\php;c:\xampp\php\ext;c:\xampp\pqsql\lib;c:\xampp\pqsql\bin;c:\xampp\mysql\bin;c:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;c:\Program Files\apache-maven-3.2.3\bin;c:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\Git\cmd;c:\rubygems-2.4.2\bin;c:\Ruby21\bin;c:\Program Files (x86)\QuickTime\QTSystem\;c:\Program Files\TortoiseGit\bin;c:\Program Files\sbt\sbt-0.13.8\sbt\bin;c:\Program Files (x86)\nodejs\;c:\sqlite;c:\Program Files (x86)\Skype\Phone\;c:\WINDOWS\system32;c:\WINDOWS;c:\WINDOWS\System32\Wbem;c:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Vagrant\bin;c:\Programme\Boot2Docker for Windows;c:\Users\slash1990\AppData\Roaming\npm;.
+Mai 17, 2016 10:31:55 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:31:55 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:31:55 AM org.apache.catalina.startup.Catalina load
+INFORMATION: Initialization processed in 1169 ms
+Mai 17, 2016 10:31:55 AM org.apache.catalina.core.StandardService startInternal
+INFORMATION: Starting service Catalina
+Mai 17, 2016 10:31:55 AM org.apache.catalina.core.StandardEngine startInternal
+INFORMATION: Starting Servlet Engine: Apache Tomcat/7.0.62
+Mai 17, 2016 10:31:55 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deploying configuration descriptor C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml
+Mai 17, 2016 10:32:16 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:33:19 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deployment of configuration descriptor C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml has finished in 84,179 ms
+Mai 17, 2016 10:33:19 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\calendar-portlet
+Mai 17, 2016 10:33:21 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:33:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\calendar-portlet has finished in 2,245 ms
+Mai 17, 2016 10:33:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\kaleo-web
+Mai 17, 2016 10:33:24 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:33:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\kaleo-web has finished in 2,116 ms
+Mai 17, 2016 10:33:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\marketplace-portlet
+Mai 17, 2016 10:33:25 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:33:35 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\marketplace-portlet has finished in 11,543 ms
+Mai 17, 2016 10:33:35 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\notifications-portlet
+Mai 17, 2016 10:33:36 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:33:37 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\notifications-portlet has finished in 2,331 ms
+Mai 17, 2016 10:33:37 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\opensocial-portlet
+Mai 17, 2016 10:33:40 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:33:42 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\opensocial-portlet has finished in 4,662 ms
+Mai 17, 2016 10:33:42 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\qg-portlet
+Mai 17, 2016 10:33:43 AM org.apache.shindig.config.JsonContainerConfig loadContainers
+INFORMATION: Loading resources from: containers/default/container.js
+Mai 17, 2016 10:33:43 AM org.apache.shindig.config.JsonContainerConfig loadResources
+INFORMATION: Reading container config: containers/default/container.js
+Mai 17, 2016 10:33:43 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features-extras/features.txt
+Mai 17, 2016 10:33:43 AM org.apache.shindig.common.xml.XmlUtil <clinit>
+INFORMATION: Reusing document builders
+Mai 17, 2016 10:33:45 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:33:46 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features/features.txt
+Mai 17, 2016 10:33:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\qg-portlet has finished in 4,526 ms
+Mai 17, 2016 10:33:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\resources-importer-web
+Mai 17, 2016 10:33:48 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:33:48 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\resources-importer-web has finished in 1,204 ms
+Mai 17, 2016 10:33:48 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\sync-web
+Mai 17, 2016 10:33:49 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:33:50 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@2a8a8ad5
+Mai 17, 2016 10:33:50 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@2a8a8ad5
+Mai 17, 2016 10:33:50 AM org.apache.shindig.gadgets.oauth.OAuthModule$OAuthCrypterProvider <init>
+INFORMATION: Using random key for OAuth client-side state encryption
+Mai 17, 2016 10:33:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\sync-web has finished in 5,461 ms
+Mai 17, 2016 10:33:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\web-form-portlet
+Mai 17, 2016 10:33:54 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:33:55 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\web-form-portlet has finished in 1,346 ms
+Mai 17, 2016 10:33:55 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:33:55 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:33:55 AM org.apache.catalina.startup.Catalina start
+INFORMATION: Server startup in 119716 ms
+Mai 17, 2016 10:46:24 AM org.apache.coyote.AbstractProtocol pause
+INFORMATION: Pausing ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:46:24 AM org.apache.coyote.AbstractProtocol pause
+INFORMATION: Pausing ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:46:24 AM org.apache.catalina.core.StandardService stopInternal
+INFORMATION: Stopping service Catalina
+Mai 17, 2016 10:46:26 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [org.python.google.common.base.internal.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:46:28 AM org.apache.catalina.core.StandardServer await
+INFORMATION: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Mai 17, 2016 10:46:29 AM org.apache.coyote.AbstractProtocol stop
+INFORMATION: Stopping ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:46:29 AM org.apache.coyote.AbstractProtocol stop
+INFORMATION: Stopping ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:46:29 AM org.apache.coyote.AbstractProtocol destroy
+INFORMATION: Destroying ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:46:29 AM org.apache.coyote.AbstractProtocol destroy
+INFORMATION: Destroying ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server version:        Apache Tomcat/7.0.62
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server built:          May 7 2015 17:14:55 UTC
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server number:         7.0.62.0
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Name:               Windows 8.1
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Version:            6.3
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Architecture:          amd64
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Java Home:             c:\java\jdk1.8.0_25\jre
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Version:           1.8.0_25-b18
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Vendor:            Oracle Corporation
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_BASE:         c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_HOME:         c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.config.file=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/conf/logging.properties
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dfile.encoding=UTF8
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.net.preferIPv4Stack=true
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dorg.apache.catalina.loader.WebappClassLoader.ENABLE_CLEAR_REFERENCES=false
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Duser.timezone=GMT
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Xmx1024m
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -XX:MaxPermSize=256m
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.endorsed.dirs=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/endorsed
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.base=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.home=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.io.tmpdir=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp
+Mai 17, 2016 10:46:32 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFORMATION: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: c:\java\jdk1.8.0_25\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\slash1990\bin;.;C:\Program Files (x86)\Git\local\bin;C:\Program Files (x86)\Git\mingw\bin;C:\Program Files (x86)\Git\bin;c:\Program Files\ImageMagick-6.9.1-Q16;c:\activator;c:\java\jdk1.8.0_25\bin;c:\Windows\system32;c:\Windows;c:\Windows\System32\Wbem;c:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\ThinkPad\Bluetooth Software\;c:\Program Files\ThinkPad\Bluetooth Software\syswow64;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;c:\Program Files (x86)\Common Files\Ulead Systems\MPEG;c:\Program Files (x86)\Lenovo\Access Connections\;c:\SWTOOLS\ReadyApps;c:\Program Files (x86)\Common Files\Lenovo;c:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;c:\xampp\php;c:\xampp\php\ext;c:\xampp\pqsql\lib;c:\xampp\pqsql\bin;c:\xampp\mysql\bin;c:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;c:\Program Files\apache-maven-3.2.3\bin;c:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\Git\cmd;c:\rubygems-2.4.2\bin;c:\Ruby21\bin;c:\Program Files (x86)\QuickTime\QTSystem\;c:\Program Files\TortoiseGit\bin;c:\Program Files\sbt\sbt-0.13.8\sbt\bin;c:\Program Files (x86)\nodejs\;c:\sqlite;c:\Program Files (x86)\Skype\Phone\;c:\WINDOWS\system32;c:\WINDOWS;c:\WINDOWS\System32\Wbem;c:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Vagrant\bin;c:\Programme\Boot2Docker for Windows;c:\Users\slash1990\AppData\Roaming\npm;.
+Mai 17, 2016 10:46:33 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:46:33 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:46:33 AM org.apache.catalina.startup.Catalina load
+INFORMATION: Initialization processed in 699 ms
+Mai 17, 2016 10:46:33 AM org.apache.catalina.core.StandardService startInternal
+INFORMATION: Starting service Catalina
+Mai 17, 2016 10:46:33 AM org.apache.catalina.core.StandardEngine startInternal
+INFORMATION: Starting Servlet Engine: Apache Tomcat/7.0.62
+Mai 17, 2016 10:46:33 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deploying configuration descriptor C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml
+Mai 17, 2016 10:46:46 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:47:44 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deployment of configuration descriptor C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml has finished in 71,005 ms
+Mai 17, 2016 10:47:44 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\calendar-portlet
+Mai 17, 2016 10:47:46 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:47:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\calendar-portlet has finished in 2,088 ms
+Mai 17, 2016 10:47:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\kaleo-web
+Mai 17, 2016 10:47:48 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:47:48 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\kaleo-web has finished in 1,735 ms
+Mai 17, 2016 10:47:48 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\marketplace-portlet
+Mai 17, 2016 10:47:49 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:48:00 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\marketplace-portlet has finished in 12,100 ms
+Mai 17, 2016 10:48:00 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\notifications-portlet
+Mai 17, 2016 10:48:01 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:48:02 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\notifications-portlet has finished in 2,060 ms
+Mai 17, 2016 10:48:02 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\opensocial-portlet
+Mai 17, 2016 10:48:04 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:48:06 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\opensocial-portlet has finished in 4,364 ms
+Mai 17, 2016 10:48:06 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\qg-portlet
+Mai 17, 2016 10:48:07 AM org.apache.shindig.config.JsonContainerConfig loadContainers
+INFORMATION: Loading resources from: containers/default/container.js
+Mai 17, 2016 10:48:07 AM org.apache.shindig.config.JsonContainerConfig loadResources
+INFORMATION: Reading container config: containers/default/container.js
+Mai 17, 2016 10:48:08 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features-extras/features.txt
+Mai 17, 2016 10:48:08 AM org.apache.shindig.common.xml.XmlUtil <clinit>
+INFORMATION: Reusing document builders
+Mai 17, 2016 10:48:09 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:48:09 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features/features.txt
+Mai 17, 2016 10:48:10 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\qg-portlet has finished in 3,654 ms
+Mai 17, 2016 10:48:10 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\resources-importer-web
+Mai 17, 2016 10:48:11 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:48:11 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\resources-importer-web has finished in 1,351 ms
+Mai 17, 2016 10:48:11 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\sync-web
+Mai 17, 2016 10:48:13 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:48:17 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\sync-web has finished in 5,883 ms
+Mai 17, 2016 10:48:17 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\web-form-portlet
+Mai 17, 2016 10:48:17 AM org.apache.shindig.gadgets.http.BasicHttpFetcher fetch
+INFORMATION: Timeout for http://www.google.com/ig/lib/libanalytics.js Exception: java.net.SocketTimeoutException - Read timed out - 5148ms
+Mai 17, 2016 10:48:17 AM org.apache.shindig.gadgets.features.FeatureResourceLoader$UriResource getContent
+WARNUNG: Unable to retrieve remote library from http://www.google.com/ig/lib/libanalytics.js
+Mai 17, 2016 10:48:18 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:48:18 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\web-form-portlet has finished in 1,446 ms
+Mai 17, 2016 10:48:18 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:48:18 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:48:18 AM org.apache.catalina.startup.Catalina start
+INFORMATION: Server startup in 105760 ms
+Mai 17, 2016 10:48:23 AM org.apache.shindig.gadgets.http.BasicHttpFetcher fetch
+INFORMATION: Timeout for http://www.google.com/ig/lib/libga.js Exception: java.net.SocketTimeoutException - Read timed out - 5052ms
+Mai 17, 2016 10:48:23 AM org.apache.shindig.gadgets.features.FeatureResourceLoader$UriResource getContent
+WARNUNG: Unable to retrieve remote library from http://www.google.com/ig/lib/libga.js
+Mai 17, 2016 10:48:23 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@30d82769
+Mai 17, 2016 10:48:23 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@30d82769
+Mai 17, 2016 10:48:23 AM org.apache.shindig.gadgets.oauth.OAuthModule$OAuthCrypterProvider <init>
+INFORMATION: Using random key for OAuth client-side state encryption
+Mai 17, 2016 10:49:08 AM org.apache.coyote.AbstractProtocol pause
+INFORMATION: Pausing ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:49:08 AM org.apache.coyote.AbstractProtocol pause
+INFORMATION: Pausing ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:49:08 AM org.apache.catalina.core.StandardService stopInternal
+INFORMATION: Stopping service Catalina
+Mai 17, 2016 10:49:10 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [org.python.google.common.base.internal.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:49:13 AM org.apache.coyote.AbstractProtocol stop
+INFORMATION: Stopping ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:49:13 AM org.apache.coyote.AbstractProtocol stop
+INFORMATION: Stopping ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:49:13 AM org.apache.coyote.AbstractProtocol destroy
+INFORMATION: Destroying ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:49:13 AM org.apache.coyote.AbstractProtocol destroy
+INFORMATION: Destroying ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server version:        Apache Tomcat/7.0.62
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server built:          May 7 2015 17:14:55 UTC
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server number:         7.0.62.0
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Name:               Windows 8.1
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Version:            6.3
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Architecture:          amd64
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Java Home:             c:\java\jdk1.8.0_25\jre
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Version:           1.8.0_25-b18
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Vendor:            Oracle Corporation
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_BASE:         c:/Masterthesis/liferay-portal-server/tomcat-7.0.62
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_HOME:         c:/Masterthesis/liferay-portal-server/tomcat-7.0.62
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.config.file=c:/Masterthesis/liferay-portal-server/tomcat-7.0.62/conf/logging.properties
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dfile.encoding=UTF8
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.net.preferIPv4Stack=true
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dorg.apache.catalina.loader.WebappClassLoader.ENABLE_CLEAR_REFERENCES=false
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Duser.timezone=GMT
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Xmx1024m
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -XX:MaxPermSize=256m
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.endorsed.dirs=c:/Masterthesis/liferay-portal-server/tomcat-7.0.62/endorsed
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.base=c:/Masterthesis/liferay-portal-server/tomcat-7.0.62
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.home=c:/Masterthesis/liferay-portal-server/tomcat-7.0.62
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.io.tmpdir=c:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp
+Mai 17, 2016 10:52:19 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFORMATION: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: c:\java\jdk1.8.0_25\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\slash1990\bin;.;C:\Program Files (x86)\Git\local\bin;C:\Program Files (x86)\Git\mingw\bin;C:\Program Files (x86)\Git\bin;c:\Program Files\ImageMagick-6.9.1-Q16;c:\activator;c:\java\jdk1.8.0_25\bin;c:\Windows\system32;c:\Windows;c:\Windows\System32\Wbem;c:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\ThinkPad\Bluetooth Software\;c:\Program Files\ThinkPad\Bluetooth Software\syswow64;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;c:\Program Files (x86)\Common Files\Ulead Systems\MPEG;c:\Program Files (x86)\Lenovo\Access Connections\;c:\SWTOOLS\ReadyApps;c:\Program Files (x86)\Common Files\Lenovo;c:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;c:\xampp\php;c:\xampp\php\ext;c:\xampp\pqsql\lib;c:\xampp\pqsql\bin;c:\xampp\mysql\bin;c:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;c:\Program Files\apache-maven-3.2.3\bin;c:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\Git\cmd;c:\rubygems-2.4.2\bin;c:\Ruby21\bin;c:\Program Files (x86)\QuickTime\QTSystem\;c:\Program Files\TortoiseGit\bin;c:\Program Files\sbt\sbt-0.13.8\sbt\bin;c:\Program Files (x86)\nodejs\;c:\sqlite;c:\Program Files (x86)\Skype\Phone\;c:\WINDOWS\system32;c:\WINDOWS;c:\WINDOWS\System32\Wbem;c:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Vagrant\bin;c:\Programme\Boot2Docker for Windows;c:\Users\slash1990\AppData\Roaming\npm;.
+Mai 17, 2016 10:52:19 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:52:19 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.Catalina load
+INFORMATION: Initialization processed in 707 ms
+Mai 17, 2016 10:52:19 AM org.apache.catalina.core.StandardService startInternal
+INFORMATION: Starting service Catalina
+Mai 17, 2016 10:52:19 AM org.apache.catalina.core.StandardEngine startInternal
+INFORMATION: Starting Servlet Engine: Apache Tomcat/7.0.62
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deploying configuration descriptor C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml
+Mai 17, 2016 10:52:33 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:53:25 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deployment of configuration descriptor C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml has finished in 65,501 ms
+Mai 17, 2016 10:53:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\calendar-portlet
+Mai 17, 2016 10:53:28 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:53:28 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\calendar-portlet has finished in 3,020 ms
+Mai 17, 2016 10:53:28 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\kaleo-web
+Mai 17, 2016 10:53:31 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:53:31 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\kaleo-web has finished in 2,695 ms
+Mai 17, 2016 10:53:31 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\marketplace-portlet
+Mai 17, 2016 10:53:33 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:53:42 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\marketplace-portlet has finished in 11,634 ms
+Mai 17, 2016 10:53:42 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\notifications-portlet
+Mai 17, 2016 10:53:44 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:53:45 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\notifications-portlet has finished in 2,880 ms
+Mai 17, 2016 10:53:45 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\opensocial-portlet
+Mai 17, 2016 10:53:49 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:53:51 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\opensocial-portlet has finished in 6,097 ms
+Mai 17, 2016 10:53:51 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\qg-portlet
+Mai 17, 2016 10:53:52 AM org.apache.shindig.config.JsonContainerConfig loadContainers
+INFORMATION: Loading resources from: containers/default/container.js
+Mai 17, 2016 10:53:52 AM org.apache.shindig.config.JsonContainerConfig loadResources
+INFORMATION: Reading container config: containers/default/container.js
+Mai 17, 2016 10:53:53 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features-extras/features.txt
+Mai 17, 2016 10:53:53 AM org.apache.shindig.common.xml.XmlUtil <clinit>
+INFORMATION: Reusing document builders
+Mai 17, 2016 10:53:54 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features/features.txt
+Mai 17, 2016 10:53:54 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:53:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\qg-portlet has finished in 5,416 ms
+Mai 17, 2016 10:53:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\resources-importer-web
+Mai 17, 2016 10:53:59 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:54:00 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\resources-importer-web has finished in 3,229 ms
+Mai 17, 2016 10:54:00 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\sync-web
+Mai 17, 2016 10:54:02 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:54:03 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@21199a48
+Mai 17, 2016 10:54:03 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@21199a48
+Mai 17, 2016 10:54:03 AM org.apache.shindig.gadgets.oauth.OAuthModule$OAuthCrypterProvider <init>
+INFORMATION: Using random key for OAuth client-side state encryption
+Mai 17, 2016 10:54:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\sync-web has finished in 7,854 ms
+Mai 17, 2016 10:54:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\web-form-portlet
+Mai 17, 2016 10:54:09 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 10:54:10 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\web-form-portlet has finished in 1,886 ms
+Mai 17, 2016 10:54:10 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:54:10 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:54:10 AM org.apache.catalina.startup.Catalina start
+INFORMATION: Server startup in 110299 ms

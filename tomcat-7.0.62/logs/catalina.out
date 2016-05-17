@@ -1,0 +1,1544 @@
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server version:        Apache Tomcat/7.0.62
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server built:          May 7 2015 17:14:55 UTC
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server number:         7.0.62.0
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Name:               Windows 8.1
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Version:            6.3
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Architecture:          amd64
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Java Home:             c:\java\jdk1.8.0_25\jre
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Version:           1.8.0_25-b18
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Vendor:            Oracle Corporation
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_BASE:         c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_HOME:         c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.config.file=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/conf/logging.properties
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dfile.encoding=UTF8
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.net.preferIPv4Stack=true
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dorg.apache.catalina.loader.WebappClassLoader.ENABLE_CLEAR_REFERENCES=false
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Duser.timezone=GMT
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Xmx1024m
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -XX:MaxPermSize=256m
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.endorsed.dirs=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/endorsed
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.base=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.home=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 9:36:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.io.tmpdir=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp
+Mai 17, 2016 9:36:42 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFORMATION: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: c:\java\jdk1.8.0_25\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\slash1990\bin;.;C:\Program Files (x86)\Git\local\bin;C:\Program Files (x86)\Git\mingw\bin;C:\Program Files (x86)\Git\bin;c:\Program Files\ImageMagick-6.9.1-Q16;c:\activator;c:\java\jdk1.8.0_25\bin;c:\Windows\system32;c:\Windows;c:\Windows\System32\Wbem;c:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\ThinkPad\Bluetooth Software\;c:\Program Files\ThinkPad\Bluetooth Software\syswow64;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;c:\Program Files (x86)\Common Files\Ulead Systems\MPEG;c:\Program Files (x86)\Lenovo\Access Connections\;c:\SWTOOLS\ReadyApps;c:\Program Files (x86)\Common Files\Lenovo;c:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;c:\xampp\php;c:\xampp\php\ext;c:\xampp\pqsql\lib;c:\xampp\pqsql\bin;c:\xampp\mysql\bin;c:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;c:\Program Files\apache-maven-3.2.3\bin;c:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\Git\cmd;c:\rubygems-2.4.2\bin;c:\Ruby21\bin;c:\Program Files (x86)\QuickTime\QTSystem\;c:\Program Files\TortoiseGit\bin;c:\Program Files\sbt\sbt-0.13.8\sbt\bin;c:\Program Files (x86)\nodejs\;c:\sqlite;c:\Program Files (x86)\Skype\Phone\;c:\WINDOWS\system32;c:\WINDOWS;c:\WINDOWS\System32\Wbem;c:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Vagrant\bin;c:\Programme\Boot2Docker for Windows;c:\Users\slash1990\AppData\Roaming\npm;.
+Mai 17, 2016 9:36:43 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 9:36:43 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 9:36:43 AM org.apache.catalina.startup.Catalina load
+INFORMATION: Initialization processed in 715 ms
+Mai 17, 2016 9:36:43 AM org.apache.catalina.core.StandardService startInternal
+INFORMATION: Starting service Catalina
+Mai 17, 2016 9:36:43 AM org.apache.catalina.core.StandardEngine startInternal
+INFORMATION: Starting Servlet Engine: Apache Tomcat/7.0.62
+Mai 17, 2016 9:36:43 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deploying configuration descriptor C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml
+Mai 17, 2016 9:36:56 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Loading jar:file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/webapps/ROOT/WEB-INF/lib/portal-impl.jar!/system.properties
+Loading jar:file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/webapps/ROOT/WEB-INF/lib/portal-impl.jar!/portal.properties
+Mai 17, 2016 9:37:19 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+09:37:25,218 INFO  [localhost-startStop-1][DialectDetector:71] Determine dialect for HSQL Database Engine 2
+09:37:25,223 WARN  [localhost-startStop-1][DialectDetector:86] Liferay is configured to use Hypersonic as its database. Do NOT use Hypersonic in production. Hypersonic is an embedded database useful for development and demo'ing purposes. The database settings can be changed in portal-ext.properties.
+09:37:25,261 INFO  [localhost-startStop-1][DialectDetector:136] Found dialect org.hibernate.dialect.HSQLDialect
+Starting Liferay Portal Community Edition 6.2 CE GA6 (Newton / Build 6205 / January 6, 2016)
+09:37:55,073 INFO  [localhost-startStop-1][StartupAction:97] There are no patches installed
+09:37:56,024 INFO  [localhost-startStop-1][BaseDB:481] Database supports case sensitive queries
+09:37:56,769 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyProcessSuite
+09:37:56,771 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyProperties
+09:37:56,799 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyDB2
+09:37:56,800 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyMySQL
+09:37:56,800 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyOracle
+09:37:56,801 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifySQLServer
+09:37:56,802 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyUUID
+09:37:56,830 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyPermission
+09:37:57,775 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyGroup
+09:37:57,821 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyRole
+09:37:57,822 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyAsset
+09:37:57,827 INFO  [localhost-startStop-1][UpgradeProcess:164] Upgrading com.liferay.portal.upgrade.util.UpgradeAssetPublisherManualEntries
+09:37:57,829 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyAuditedModel
+09:37:57,839 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyBlogs
+09:37:57,850 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyBookmarks
+09:37:57,864 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyCalendar
+09:37:57,876 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyDocumentLibrary
+09:37:58,057 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyDynamicDataMapping
+09:37:58,062 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyGroupId
+09:37:58,067 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyJournal
+09:37:58,082 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyLayout
+09:37:58,095 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyMessageBoards
+09:37:58,105 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyOrganization
+09:37:58,112 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyPortalPreferences
+09:37:58,113 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyPortletPreferences
+09:37:58,133 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyRegion
+09:37:58,135 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyResourcePermissions
+09:37:58,136 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyUser
+09:37:58,142 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyWiki
+09:37:58,145 INFO  [localhost-startStop-1][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyWorkflow
+09:37:58,199 INFO  [localhost-startStop-1][ServerDetector:140] Server supports hot deploy
+09:37:58,207 INFO  [localhost-startStop-1][PluginPackageUtil:1013] Reading plugin package for the root context
+09:38:05,696 INFO  [localhost-startStop-1][AutoDeployDir:116] Creating missing directory c:\Masterthesis\liferay-portal-6.2\deploy
+09:38:05,698 INFO  [localhost-startStop-1][AutoDeployDir:139] Auto deploy scanner started for c:\Masterthesis\liferay-portal-6.2\deploy
+Mai 17, 2016 9:38:16 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring FrameworkServlet 'Remoting Servlet'
+Mai 17, 2016 9:38:17 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deployment of configuration descriptor C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml has finished in 94,705 ms
+Mai 17, 2016 9:38:17 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\calendar-portlet
+Mai 17, 2016 9:38:19 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:19 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\calendar-portlet has finished in 2,023 ms
+Mai 17, 2016 9:38:19 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\kaleo-web
+Mai 17, 2016 9:38:22 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:22 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\kaleo-web has finished in 2,494 ms
+Mai 17, 2016 9:38:22 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\marketplace-portlet
+Mai 17, 2016 9:38:23 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:23 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\marketplace-portlet has finished in 1,208 ms
+Mai 17, 2016 9:38:23 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\notifications-portlet
+Mai 17, 2016 9:38:24 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\notifications-portlet has finished in 1,218 ms
+Mai 17, 2016 9:38:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\opensocial-portlet
+Mai 17, 2016 9:38:26 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:26 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\opensocial-portlet has finished in 2,062 ms
+Mai 17, 2016 9:38:26 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\resources-importer-web
+Mai 17, 2016 9:38:27 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\resources-importer-web has finished in 750 ms
+Mai 17, 2016 9:38:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\sync-web
+Mai 17, 2016 9:38:28 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:28 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\sync-web has finished in 1,089 ms
+Mai 17, 2016 9:38:28 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\web-form-portlet
+Mai 17, 2016 9:38:29 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:38:29 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\web-form-portlet has finished in 882 ms
+Mai 17, 2016 9:38:29 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 9:38:29 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 9:38:29 AM org.apache.catalina.startup.Catalina start
+INFORMATION: Server startup in 106503 ms
+09:42:00,790 INFO  [com.liferay.portal.kernel.deploy.auto.AutoDeployScanner][AutoDeployDir:204] Processing qg-portlet-1.war
+09:42:00,794 INFO  [com.liferay.portal.kernel.deploy.auto.AutoDeployScanner][PortletAutoDeployListener:79] Copying portlets for c:\Masterthesis\liferay-portal-6.2\deploy\qg-portlet-1.war
+09:42:00,817 INFO  [com.liferay.portal.kernel.deploy.auto.AutoDeployScanner][BaseDeployer:863] Deploying qg-portlet-1.war
+  Expanding: c:\Masterthesis\liferay-portal-6.2\deploy\qg-portlet-1.war into c:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\temp\20160517094200851
+  Copying 1 file to c:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\temp\20160517094200851\WEB-INF
+  Copying 1 file to c:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\temp\20160517094200851\WEB-INF\classes
+  Copying 1 file to c:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\temp\20160517094200851\WEB-INF\classes
+  Copying 1 file to c:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\temp\20160517094200851\WEB-INF\jsp
+09:42:01,524 INFO  [com.liferay.portal.kernel.deploy.auto.AutoDeployScanner][BaseDeployer:2391] Modifying Servlet 3.0 c:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\temp\20160517094200851\WEB-INF\web.xml
+  Warning: META-INF\MANIFEST.MF modified in the future.
+  Warning: META-INF\maven\de.saschafeldmann.adesso.master.thesis.software\qg-portlet\pom.properties modified in the future.
+  Warning: META-INF\maven\de.saschafeldmann.adesso.master.thesis.software\qg-portlet\pom.xml modified in the future.
+  Warning: WEB-INF\classes\de\saschafeldmann\adesso\master\thesis\portlet\QuestionGeneratorPortlet$1.class modified in the future.
+  Warning: WEB-INF\classes\de\saschafeldmann\adesso\master\thesis\portlet\QuestionGeneratorPortlet.class modified in the future.
+  Warning: WEB-INF\classes\de\saschafeldmann\adesso\master\thesis\portlet\presenter\ApplicationOverviewPresenter.class modified in the future.
+  Warning: WEB-INF\classes\de\saschafeldmann\adesso\master\thesis\portlet\properties\VaadinProperties.class modified in the future.
+  Warning: WEB-INF\classes\de\saschafeldmann\adesso\master\thesis\portlet\view\ApplicationOverviewView.class modified in the future.
+  Warning: WEB-INF\lib\commons-logging-1.2.jar modified in the future.
+  Warning: WEB-INF\lib\flute-1.3.0.gg2.jar modified in the future.
+  Warning: WEB-INF\lib\guava-16.0.1.vaadin1.jar modified in the future.
+  Warning: WEB-INF\lib\js-1.7R2.jar modified in the future.
+  Warning: WEB-INF\lib\jsoup-1.8.3.jar modified in the future.
+  Warning: WEB-INF\lib\spring-aop-4.2.4.RELEASE.jar modified in the future.
+  Warning: WEB-INF\lib\spring-beans-4.2.4.RELEASE.jar modified in the future.
+  Warning: WEB-INF\lib\spring-context-4.2.4.RELEASE.jar modified in the future.
+  Warning: WEB-INF\lib\spring-core-4.2.4.RELEASE.jar modified in the future.
+  Warning: WEB-INF\lib\spring-expression-4.2.4.RELEASE.jar modified in the future.
+  Warning: WEB-INF\lib\streamhtmlparser-jsilver-0.0.10.vaadin1.jar modified in the future.
+  Warning: WEB-INF\lib\vaadin-sass-compiler-0.9.13.jar modified in the future.
+  Warning: WEB-INF\lib\vaadin-server-7.6.4.jar modified in the future.
+  Warning: WEB-INF\lib\vaadin-shared-7.6.4.jar modified in the future.
+  Warning: WEB-INF\lib\vaadin-themes-7.6.4.jar modified in the future.
+  Warning: WEB-INF\lib\yuicompressor-2.4.8.jar modified in the future.
+  Warning: WEB-INF\liferay-plugin-package.properties modified in the future.
+  Warning: META-INF\maven modified in the future.
+  Warning: META-INF\maven\de.saschafeldmann.adesso.master.thesis.software modified in the future.
+  Warning: WEB-INF\classes\de modified in the future.
+  Warning: WEB-INF\classes\de\saschafeldmann modified in the future.
+  Warning: WEB-INF\classes\de\saschafeldmann\adesso modified in the future.
+  Warning: WEB-INF\classes\de\saschafeldmann\adesso\master\thesis modified in the future.
+  Warning: WEB-INF\classes\de\saschafeldmann\adesso\master\thesis\portlet\presenter modified in the future.
+  Warning: WEB-INF\classes\de\saschafeldmann\adesso\master\thesis\portlet\properties modified in the future.
+  Copying 50 files to c:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\qg-portlet
+  Copying 1 file to c:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\qg-portlet
+  Deleting directory c:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\temp\20160517094200851
+09:42:01,756 INFO  [com.liferay.portal.kernel.deploy.auto.AutoDeployScanner][PortletAutoDeployListener:91] Portlets for c:\Masterthesis\liferay-portal-6.2\deploy\qg-portlet-1.war copied successfully. Deployment will start in a few seconds.
+Mai 17, 2016 9:42:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\qg-portlet
+Mai 17, 2016 9:42:11 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mai 17, 2016 9:42:11 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\qg-portlet has finished in 1,679 ms
+09:46:06,642 INFO  [http-bio-8080-exec-10][DialectDetector:71] Determine dialect for MySQL 5
+09:46:06,665 INFO  [http-bio-8080-exec-10][DialectDetector:136] Found dialect org.hibernate.dialect.MySQLDialect
+Starting Liferay Portal Community Edition 6.2 CE GA6 (Newton / Build 6205 / January 6, 2016)
+09:46:08,392 INFO  [http-bio-8080-exec-10][StartupAction:97] There are no patches installed
+09:46:08,407 ERROR [http-bio-8080-exec-10][JDBCExceptionReporter:82] Table 'liferay.lock_' doesn't exist
+09:46:08,411 WARN  [http-bio-8080-exec-10][StartupAction:147] Unable to clear locks because Lock table does not exist
+09:46:08,415 WARN  [http-bio-8080-exec-10][ReleaseLocalServiceImpl:171] Table 'liferay.release_' doesn't exist
+09:46:08,419 INFO  [http-bio-8080-exec-10][ReleaseLocalServiceImpl:84] Create tables and populate with default data
+09:46:24,687 WARN  [http-bio-8080-exec-10][BaseDB:457] Specified key was too long; max key length is 767 bytes: create index IX_7020130F on SCProductVersion (directDownloadURL);_ [Sanitized]
+09:46:24,689 ERROR [http-bio-8080-exec-10][BaseDB:464] create index IX_7020130F on SCProductVersion (directDownloadURL);
+09:46:27,100 WARN  [http-bio-8080-exec-10][BaseDB:457] Specified key was too long; max key length is 767 bytes: create index IX_89509087 on User_ (companyId, openId);_ [Sanitized]
+09:46:27,101 ERROR [http-bio-8080-exec-10][BaseDB:464] create index IX_89509087 on User_ (companyId, openId);
+09:46:30,038 INFO  [http-bio-8080-exec-10][BaseDB:484] Database does not support case sensitive queries
+09:46:30,819 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyProcessSuite
+09:46:30,820 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyProperties
+09:46:30,838 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyDB2
+09:46:30,838 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyMySQL
+09:46:30,904 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyOracle
+09:46:30,904 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifySQLServer
+09:46:30,905 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyUUID
+09:46:31,148 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyPermission
+09:46:31,162 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyGroup
+09:46:31,185 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyRole
+09:46:31,186 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyAsset
+09:46:31,188 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.portal.upgrade.util.UpgradeAssetPublisherManualEntries
+09:46:31,190 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyAuditedModel
+09:46:31,221 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyBlogs
+09:46:31,225 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyBookmarks
+09:46:31,231 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyCalendar
+09:46:31,237 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyDocumentLibrary
+09:46:31,291 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyDynamicDataMapping
+09:46:31,294 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyGroupId
+09:46:31,321 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyJournal
+09:46:31,336 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyLayout
+09:46:31,342 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyMessageBoards
+09:46:31,352 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyOrganization
+09:46:31,356 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyPortalPreferences
+09:46:31,358 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyPortletPreferences
+09:46:31,367 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyRegion
+09:46:31,370 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyResourcePermissions
+09:46:31,371 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyUser
+09:46:31,375 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyWiki
+09:46:31,377 INFO  [http-bio-8080-exec-10][VerifyProcess:65] Verifying com.liferay.portal.verify.VerifyWorkflow
+09:46:39,908 INFO  [http-bio-8080-exec-10][HotDeployEvent:145] Plugin calendar-portlet requires marketplace-portlet
+09:46:39,911 INFO  [http-bio-8080-exec-10][HotDeployImpl:276] Queueing calendar-portlet for deploy because it is missing marketplace-portlet
+09:46:40,155 INFO  [http-bio-8080-exec-10][HotDeployEvent:145] Plugin kaleo-web requires marketplace-portlet
+09:46:40,155 INFO  [http-bio-8080-exec-10][HotDeployImpl:276] Queueing kaleo-web for deploy because it is missing marketplace-portlet
+09:46:40,241 INFO  [http-bio-8080-exec-10][HotDeployImpl:217] Deploying marketplace-portlet from queue
+09:46:40,244 INFO  [http-bio-8080-exec-10][PluginPackageUtil:1016] Reading plugin package for marketplace-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/service.properties
+09:46:40,480 INFO  [http-bio-8080-exec-10][ServiceComponentLocalServiceImpl:323] Running Marketplace SQL scripts
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 9:46:40 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/service.properties
+09:46:41,910 INFO  [http-bio-8080-exec-10][HookHotDeployListener:709] Registering hook for marketplace-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portal.properties
+09:46:41,963 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.marketplace.hook.upgrade.UpgradeProcess_1_0_0
+09:46:41,966 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.marketplace.hook.upgrade.v1_0_0.UpgradeExpando
+09:46:42,039 INFO  [http-bio-8080-exec-10][HookHotDeployListener:851] Hook for marketplace-portlet is available for use
+09:46:42,046 INFO  [http-bio-8080-exec-10][PortletHotDeployListener:344] Registering portlets for marketplace-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portlet.properties
+09:46:42,440 INFO  [http-bio-8080-exec-10][PortletHotDeployListener:497] 3 portlets for marketplace-portlet are available for use
+09:46:42,443 INFO  [http-bio-8080-exec-10][HotDeployImpl:217] Deploying calendar-portlet from queue
+09:46:42,443 INFO  [http-bio-8080-exec-10][PluginPackageUtil:1016] Reading plugin package for calendar-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/service.properties
+09:46:42,615 INFO  [http-bio-8080-exec-10][ServiceComponentLocalServiceImpl:323] Running Calendar SQL scripts
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 9:46:43 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/service.properties
+09:46:45,857 INFO  [http-bio-8080-exec-10][HookHotDeployListener:709] Registering hook for calendar-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portal.properties
+09:46:45,892 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.calendar.hook.upgrade.UpgradeProcess_1_0_2
+09:46:45,895 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.calendar.hook.upgrade.v1_0_2.UpgradePortletPreferences
+09:46:47,293 INFO  [http-bio-8080-exec-10][HookHotDeployListener:851] Hook for calendar-portlet is available for use
+09:46:47,315 INFO  [http-bio-8080-exec-10][PortletHotDeployListener:344] Registering portlets for calendar-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portlet.properties
+09:46:47,687 INFO  [http-bio-8080-exec-10][PortletHotDeployListener:492] 1 portlet for calendar-portlet is available for use
+09:46:47,688 INFO  [http-bio-8080-exec-10][SocialHotDeployListener:94] Registering social for calendar-portlet
+09:46:47,691 INFO  [http-bio-8080-exec-10][SocialHotDeployListener:103] Social for calendar-portlet is available for use
+09:46:47,692 INFO  [http-bio-8080-exec-10][HotDeployImpl:217] Deploying kaleo-web from queue
+09:46:47,692 INFO  [http-bio-8080-exec-10][PluginPackageUtil:1016] Reading plugin package for kaleo-web
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/service.properties
+09:46:47,900 INFO  [http-bio-8080-exec-10][ServiceComponentLocalServiceImpl:323] Running Kaleo SQL scripts
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/portlet.properties
+Mai 17, 2016 9:46:52 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/service.properties
+09:46:56,182 INFO  [http-bio-8080-exec-10][HookHotDeployListener:709] Registering hook for kaleo-web
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/portal.properties
+09:46:56,214 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.portal.workflow.kaleo.hook.upgrade.UpgradeProcess_1_0_0
+09:46:56,217 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.portal.workflow.kaleo.hook.upgrade.v1_0_0.UpgradeKaleoTaskInstanceToken
+09:46:56,227 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.portal.workflow.kaleo.hook.upgrade.UpgradeProcess_1_1_0
+09:46:56,230 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.portal.workflow.kaleo.hook.upgrade.v1_1_0.UpgradeWorkflowContext
+09:46:56,284 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.portal.workflow.kaleo.hook.upgrade.UpgradeProcess_1_2_0
+09:46:56,286 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.portal.workflow.kaleo.hook.upgrade.v1_2_0.UpgradeKaleoLog
+09:46:56,297 INFO  [http-bio-8080-exec-10][Table:157] Starting backup of KaleoLog to c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/temp-db-KaleoLog-1463478416297
+09:46:56,300 INFO  [http-bio-8080-exec-10][Table:191] Finished backup of KaleoLog to c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/temp-db-KaleoLog-1463478416297 in 3 ms
+09:46:56,485 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.portal.workflow.kaleo.hook.upgrade.v1_2_0.UpgradeKaleoNotificationRecipient
+09:46:56,527 INFO  [http-bio-8080-exec-10][HookHotDeployListener:851] Hook for kaleo-web is available for use
+09:46:57,336 INFO  [http-bio-8080-exec-10][HotDeployEvent:145] Plugin notifications-portlet requires marketplace-portlet
+09:46:57,337 INFO  [http-bio-8080-exec-10][HotDeployImpl:217] Deploying notifications-portlet from queue
+09:46:57,337 INFO  [http-bio-8080-exec-10][PluginPackageUtil:1016] Reading plugin package for notifications-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/service.properties
+09:46:57,610 INFO  [http-bio-8080-exec-10][ServiceComponentLocalServiceImpl:323] Running Notification SQL scripts
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 9:46:57 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/service.properties
+09:46:58,125 INFO  [http-bio-8080-exec-10][HookHotDeployListener:709] Registering hook for notifications-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portal.properties
+09:46:58,144 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.notifications.hook.upgrade.UpgradeProcess_1_0_0
+09:46:58,147 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.notifications.hook.upgrade.v1_0_0.UpgradeUserNotificationEvent
+09:46:58,156 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.notifications.hook.upgrade.UpgradeProcess_1_1_0
+09:46:58,162 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.notifications.hook.upgrade.v1_1_0.UpgradeUserNotificationEvent
+09:46:58,501 INFO  [http-bio-8080-exec-10][HookHotDeployListener:851] Hook for notifications-portlet is available for use
+09:46:58,503 INFO  [http-bio-8080-exec-10][PortletHotDeployListener:344] Registering portlets for notifications-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portlet.properties
+09:46:58,856 INFO  [http-bio-8080-exec-10][PortletHotDeployListener:497] 2 portlets for notifications-portlet are available for use
+09:46:58,889 INFO  [http-bio-8080-exec-10][HotDeployEvent:145] Plugin opensocial-portlet requires marketplace-portlet
+09:46:58,889 INFO  [http-bio-8080-exec-10][HotDeployImpl:217] Deploying opensocial-portlet from queue
+09:46:58,890 INFO  [http-bio-8080-exec-10][PluginPackageUtil:1016] Reading plugin package for opensocial-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/service.properties
+09:46:59,058 INFO  [http-bio-8080-exec-10][ServiceComponentLocalServiceImpl:323] Running OpenSocial SQL scripts
+09:46:59,113 WARN  [http-bio-8080-exec-10][BaseDB:457] BLOB/TEXT column 'url' used in key specification without a key length: create unique index IX_A6A89EB1 on OpenSocial_Gadget (companyId, url);_ [Sanitized]
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 9:46:59 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/service.properties
+09:47:00,530 INFO  [http-bio-8080-exec-10][HookHotDeployListener:709] Registering hook for opensocial-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portal.properties
+09:47:00,592 INFO  [http-bio-8080-exec-10][HookHotDeployListener:851] Hook for opensocial-portlet is available for use
+09:47:00,597 INFO  [http-bio-8080-exec-10][PortletHotDeployListener:344] Registering portlets for opensocial-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portlet.properties
+09:47:01,158 INFO  [http-bio-8080-exec-10][PortletHotDeployListener:497] 4 portlets for opensocial-portlet are available for use
+09:47:01,811 INFO  [http-bio-8080-exec-10][HotDeployEvent:145] Plugin resources-importer-web requires marketplace-portlet
+09:47:01,812 INFO  [http-bio-8080-exec-10][HotDeployImpl:217] Deploying resources-importer-web from queue
+09:47:01,813 INFO  [http-bio-8080-exec-10][PluginPackageUtil:1016] Reading plugin package for resources-importer-web
+Mai 17, 2016 9:47:01 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+09:47:02,032 INFO  [http-bio-8080-exec-10][HookHotDeployListener:709] Registering hook for resources-importer-web
+09:47:02,042 INFO  [http-bio-8080-exec-10][HookHotDeployListener:851] Hook for resources-importer-web is available for use
+09:47:02,106 INFO  [http-bio-8080-exec-10][HotDeployEvent:145] Plugin sync-web requires marketplace-portlet
+09:47:02,107 INFO  [http-bio-8080-exec-10][HotDeployImpl:217] Deploying sync-web from queue
+09:47:02,107 INFO  [http-bio-8080-exec-10][PluginPackageUtil:1016] Reading plugin package for sync-web
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/6-sync-web/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/6-sync-web/WEB-INF/classes/service.properties
+09:47:02,158 INFO  [http-bio-8080-exec-10][ServiceComponentLocalServiceImpl:323] Running Sync SQL scripts
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/6-sync-web/WEB-INF/classes/portlet.properties
+Mai 17, 2016 9:47:02 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/6-sync-web/WEB-INF/classes/service.properties
+Mai 17, 2016 9:47:03 AM org.apache.shindig.config.JsonContainerConfig loadContainers
+INFORMATION: Loading resources from: containers/default/container.js
+Mai 17, 2016 9:47:03 AM org.apache.shindig.config.JsonContainerConfig loadResources
+INFORMATION: Reading container config: containers/default/container.js
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/6-sync-web/WEB-INF/classes/service.properties
+Mai 17, 2016 9:47:03 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features-extras/features.txt
+Mai 17, 2016 9:47:03 AM org.apache.shindig.common.xml.XmlUtil <clinit>
+INFORMATION: Reusing document builders
+09:47:03,586 INFO  [http-bio-8080-exec-10][HookHotDeployListener:709] Registering hook for sync-web
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/6-sync-web/WEB-INF/classes/portal.properties
+09:47:03,605 INFO  [http-bio-8080-exec-10][UpgradeProcess:164] Upgrading com.liferay.sync.hook.upgrade.v1_0_0.UpgradeIndex
+09:47:04,282 INFO  [http-bio-8080-exec-10][HookHotDeployListener:851] Hook for sync-web is available for use
+09:47:04,564 INFO  [http-bio-8080-exec-10][HotDeployEvent:145] Plugin web-form-portlet requires marketplace-portlet
+09:47:04,565 INFO  [http-bio-8080-exec-10][HotDeployImpl:217] Deploying web-form-portlet from queue
+09:47:04,566 INFO  [http-bio-8080-exec-10][PluginPackageUtil:1016] Reading plugin package for web-form-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-web-form-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-web-form-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 9:47:05 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+09:47:05,044 INFO  [http-bio-8080-exec-10][PortletHotDeployListener:344] Registering portlets for web-form-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-web-form-portlet/WEB-INF/classes/portlet.properties
+09:47:05,297 INFO  [http-bio-8080-exec-10][PortletHotDeployListener:492] 1 portlet for web-form-portlet is available for use
+09:47:05,326 INFO  [http-bio-8080-exec-10][HotDeployEvent:145] Plugin qg-portlet requires marketplace-portlet
+09:47:05,327 INFO  [http-bio-8080-exec-10][HotDeployImpl:217] Deploying qg-portlet from queue
+09:47:05,328 INFO  [http-bio-8080-exec-10][PluginPackageUtil:1016] Reading plugin package for qg-portlet
+Mai 17, 2016 9:47:05 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features/features.txt
+Mai 17, 2016 9:47:06 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+09:47:06,892 INFO  [http-bio-8080-exec-10][PortletHotDeployListener:344] Registering portlets for qg-portlet
+09:47:07,025 INFO  [http-bio-8080-exec-10][PortletHotDeployListener:492] 1 portlet for qg-portlet is available for use
+09:47:07,066 INFO  [http-bio-8080-exec-10][SetupWizardSampleDataUtil:56] Adding sample data
+Mai 17, 2016 9:47:12 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@745e4324
+Mai 17, 2016 9:47:12 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@745e4324
+Mai 17, 2016 9:47:12 AM org.apache.shindig.gadgets.oauth.OAuthModule$OAuthCrypterProvider <init>
+INFORMATION: Using random key for OAuth client-side state encryption
+09:47:39,470 INFO  [http-bio-8080-exec-10][SetupWizardSampleDataUtil:139] Finished adding data in 32404 ms
+09:54:22,178 WARN  [http-bio-8080-exec-3][code_jsp:?] {code="404", msg="/html/VAADIN/vaadinBootstrap.js", uri=/html/VAADIN/vaadinBootstrap.js}
+09:54:58,291 WARN  [http-bio-8080-exec-9][code_jsp:?] {code="404", msg="/html/VAADIN/vaadinBootstrap.js", uri=/html/VAADIN/vaadinBootstrap.js}
+09:54:58,423 WARN  [http-bio-8080-exec-9][code_jsp:?] {code="404", msg="/html/VAADIN/vaadinBootstrap.js", uri=/html/VAADIN/vaadinBootstrap.js}
+09:56:13,951 WARN  [http-bio-8080-exec-7][code_jsp:?] {code="404", msg="/html/VAADIN/vaadinBootstrap.js", uri=/html/VAADIN/vaadinBootstrap.js}
+Mai 17, 2016 10:10:36 AM org.apache.coyote.AbstractProtocol pause
+INFORMATION: Pausing ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:10:36 AM org.apache.coyote.AbstractProtocol pause
+INFORMATION: Pausing ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:10:37 AM org.apache.catalina.core.StandardService stopInternal
+INFORMATION: Stopping service Catalina
+10:10:37,102 INFO  [localhost-startStop-3][HotDeployEvent:145] Plugin qg-portlet requires marketplace-portlet
+10:10:37,108 INFO  [localhost-startStop-3][PortletHotDeployListener:525] Unregistering portlets for qg-portlet
+10:10:37,114 INFO  [localhost-startStop-3][PortletHotDeployListener:560] 1 portlet for qg-portlet was unregistered
+Mai 17, 2016 10:10:37 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:10:37,117 INFO  [localhost-startStop-3][PluginPackageUtil:1016] Reading plugin package for qg-portlet
+10:10:37,131 INFO  [localhost-startStop-3][HotDeployEvent:145] Plugin web-form-portlet requires marketplace-portlet
+10:10:37,131 INFO  [localhost-startStop-3][PortletHotDeployListener:525] Unregistering portlets for web-form-portlet
+10:10:37,134 INFO  [localhost-startStop-3][PortletHotDeployListener:560] 1 portlet for web-form-portlet was unregistered
+Mai 17, 2016 10:10:37 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:10:37,135 INFO  [localhost-startStop-3][PluginPackageUtil:1016] Reading plugin package for web-form-portlet
+10:10:37,141 INFO  [localhost-startStop-3][HotDeployEvent:145] Plugin sync-web requires marketplace-portlet
+10:10:37,143 INFO  [localhost-startStop-3][HookHotDeployListener:982] Hook for sync-web was unregistered
+Mai 17, 2016 10:10:37 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:10:37,152 INFO  [localhost-startStop-3][PluginPackageUtil:1016] Reading plugin package for sync-web
+10:10:37,162 INFO  [localhost-startStop-3][HotDeployEvent:145] Plugin resources-importer-web requires marketplace-portlet
+10:10:37,164 INFO  [localhost-startStop-3][HookHotDeployListener:982] Hook for resources-importer-web was unregistered
+Mai 17, 2016 10:10:37 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:10:37,166 INFO  [localhost-startStop-3][PluginPackageUtil:1016] Reading plugin package for resources-importer-web
+10:10:37,176 INFO  [localhost-startStop-3][HotDeployEvent:145] Plugin opensocial-portlet requires marketplace-portlet
+10:10:37,176 INFO  [localhost-startStop-3][PortletHotDeployListener:525] Unregistering portlets for opensocial-portlet
+10:10:37,184 INFO  [localhost-startStop-3][PortletHotDeployListener:565] 4 portlets for opensocial-portlet were unregistered
+10:10:37,232 INFO  [localhost-startStop-3][HookHotDeployListener:982] Hook for opensocial-portlet was unregistered
+Mai 17, 2016 10:10:37 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:10:37,242 INFO  [localhost-startStop-3][PluginPackageUtil:1016] Reading plugin package for opensocial-portlet
+10:10:37,249 INFO  [localhost-startStop-3][HotDeployEvent:145] Plugin notifications-portlet requires marketplace-portlet
+10:10:37,250 INFO  [localhost-startStop-3][PortletHotDeployListener:525] Unregistering portlets for notifications-portlet
+10:10:37,255 INFO  [localhost-startStop-3][PortletHotDeployListener:565] 2 portlets for notifications-portlet were unregistered
+10:10:37,307 INFO  [localhost-startStop-3][HookHotDeployListener:982] Hook for notifications-portlet was unregistered
+Mai 17, 2016 10:10:37 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:10:37,311 INFO  [localhost-startStop-3][PluginPackageUtil:1016] Reading plugin package for notifications-portlet
+10:10:37,317 INFO  [localhost-startStop-3][PortletHotDeployListener:525] Unregistering portlets for marketplace-portlet
+10:10:37,323 INFO  [localhost-startStop-3][PortletHotDeployListener:565] 3 portlets for marketplace-portlet were unregistered
+10:10:37,323 INFO  [localhost-startStop-3][HookHotDeployListener:982] Hook for marketplace-portlet was unregistered
+Mai 17, 2016 10:10:37 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:10:37,327 INFO  [localhost-startStop-3][PluginPackageUtil:1016] Reading plugin package for marketplace-portlet
+10:10:37,333 INFO  [localhost-startStop-3][HotDeployEvent:145] Plugin kaleo-web requires marketplace-portlet
+10:10:37,334 INFO  [localhost-startStop-3][HookHotDeployListener:982] Hook for kaleo-web was unregistered
+Mai 17, 2016 10:10:37 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:10:37,343 INFO  [localhost-startStop-3][PluginPackageUtil:1016] Reading plugin package for kaleo-web
+10:10:37,352 INFO  [localhost-startStop-3][HotDeployEvent:145] Plugin calendar-portlet requires marketplace-portlet
+10:10:37,352 INFO  [localhost-startStop-3][SocialHotDeployListener:159] Social for calendar-portlet was unregistered
+10:10:37,353 INFO  [localhost-startStop-3][PortletHotDeployListener:525] Unregistering portlets for calendar-portlet
+10:10:37,358 INFO  [localhost-startStop-3][PortletHotDeployListener:560] 1 portlet for calendar-portlet was unregistered
+10:10:37,406 INFO  [localhost-startStop-3][HookHotDeployListener:982] Hook for calendar-portlet was unregistered
+Mai 17, 2016 10:10:37 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:10:37,411 INFO  [localhost-startStop-3][PluginPackageUtil:1016] Reading plugin package for calendar-portlet
+WARN: The method class org.apache.commons.logging.impl.SLF4JLogFactory#release() was invoked.
+WARN: Please see http://www.slf4j.org/codes.html#release for an explanation.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Destroying Spring FrameworkServlet 'Remoting Servlet'
+Mai 17, 2016 10:10:38 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [HSQLDB Timer @3d7e0081] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [org.python.google.common.base.internal.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#0] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#1] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#2] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#3] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#4] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#5] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#6] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#7] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#8] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->Ikcrgjjh]-HelperThread-#9] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#0] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#1] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#2] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#3] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#4] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#5] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#6] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#7] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#8] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [C3P0PooledConnectionPoolManager[identityToken->bxRo6oQJ]-HelperThread-#9] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [Thread-103] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:38 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [Thread-104] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:10:41 AM org.apache.coyote.AbstractProtocol stop
+INFORMATION: Stopping ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:10:41 AM org.apache.coyote.AbstractProtocol stop
+INFORMATION: Stopping ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:10:41 AM org.apache.coyote.AbstractProtocol destroy
+INFORMATION: Destroying ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:10:41 AM org.apache.coyote.AbstractProtocol destroy
+INFORMATION: Destroying ProtocolHandler ["ajp-bio-8009"]
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=256m; support was removed in 8.0
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server version:        Apache Tomcat/7.0.62
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server built:          May 7 2015 17:14:55 UTC
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server number:         7.0.62.0
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Name:               Windows 8.1
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Version:            6.3
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Architecture:          amd64
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Java Home:             c:\java\jdk1.8.0_25\jre
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Version:           1.8.0_25-b18
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Vendor:            Oracle Corporation
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_BASE:         c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_HOME:         c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.config.file=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/conf/logging.properties
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dfile.encoding=UTF8
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.net.preferIPv4Stack=true
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dorg.apache.catalina.loader.WebappClassLoader.ENABLE_CLEAR_REFERENCES=false
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Duser.timezone=GMT
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Xmx1024m
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -XX:MaxPermSize=256m
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.endorsed.dirs=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/endorsed
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.base=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.home=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:31:54 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.io.tmpdir=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp
+Mai 17, 2016 10:31:54 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFORMATION: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: c:\java\jdk1.8.0_25\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\slash1990\bin;.;C:\Program Files (x86)\Git\local\bin;C:\Program Files (x86)\Git\mingw\bin;C:\Program Files (x86)\Git\bin;c:\Program Files\ImageMagick-6.9.1-Q16;c:\activator;c:\java\jdk1.8.0_25\bin;c:\Windows\system32;c:\Windows;c:\Windows\System32\Wbem;c:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\ThinkPad\Bluetooth Software\;c:\Program Files\ThinkPad\Bluetooth Software\syswow64;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;c:\Program Files (x86)\Common Files\Ulead Systems\MPEG;c:\Program Files (x86)\Lenovo\Access Connections\;c:\SWTOOLS\ReadyApps;c:\Program Files (x86)\Common Files\Lenovo;c:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;c:\xampp\php;c:\xampp\php\ext;c:\xampp\pqsql\lib;c:\xampp\pqsql\bin;c:\xampp\mysql\bin;c:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;c:\Program Files\apache-maven-3.2.3\bin;c:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\Git\cmd;c:\rubygems-2.4.2\bin;c:\Ruby21\bin;c:\Program Files (x86)\QuickTime\QTSystem\;c:\Program Files\TortoiseGit\bin;c:\Program Files\sbt\sbt-0.13.8\sbt\bin;c:\Program Files (x86)\nodejs\;c:\sqlite;c:\Program Files (x86)\Skype\Phone\;c:\WINDOWS\system32;c:\WINDOWS;c:\WINDOWS\System32\Wbem;c:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Vagrant\bin;c:\Programme\Boot2Docker for Windows;c:\Users\slash1990\AppData\Roaming\npm;.
+Mai 17, 2016 10:31:55 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:31:55 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:31:55 AM org.apache.catalina.startup.Catalina load
+INFORMATION: Initialization processed in 1169 ms
+Mai 17, 2016 10:31:55 AM org.apache.catalina.core.StandardService startInternal
+INFORMATION: Starting service Catalina
+Mai 17, 2016 10:31:55 AM org.apache.catalina.core.StandardEngine startInternal
+INFORMATION: Starting Servlet Engine: Apache Tomcat/7.0.62
+Mai 17, 2016 10:31:55 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deploying configuration descriptor C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml
+Mai 17, 2016 10:32:16 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Loading jar:file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/webapps/ROOT/WEB-INF/lib/portal-impl.jar!/system.properties
+Loading jar:file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/webapps/ROOT/WEB-INF/lib/portal-impl.jar!/portal.properties
+Loading file:/c:/Masterthesis/liferay-portal-6.2/portal-ext.properties
+Loading file:/c:/Masterthesis/liferay-portal-6.2/portal-setup-wizard.properties
+Mai 17, 2016 10:32:19 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+10:32:26,689 INFO  [localhost-startStop-1][DialectDetector:71] Determine dialect for MySQL 5
+10:32:26,742 INFO  [localhost-startStop-1][DialectDetector:136] Found dialect org.hibernate.dialect.MySQLDialect
+Starting Liferay Portal Community Edition 6.2 CE GA6 (Newton / Build 6205 / January 6, 2016)
+10:33:03,139 INFO  [localhost-startStop-1][StartupAction:97] There are no patches installed
+10:33:04,072 INFO  [localhost-startStop-1][BaseDB:484] Database does not support case sensitive queries
+10:33:04,521 INFO  [localhost-startStop-1][ServerDetector:140] Server supports hot deploy
+10:33:04,529 INFO  [localhost-startStop-1][PluginPackageUtil:1013] Reading plugin package for the root context
+10:33:11,304 INFO  [localhost-startStop-1][AutoDeployDir:139] Auto deploy scanner started for c:\Masterthesis\liferay-portal-6.2\deploy
+Mai 17, 2016 10:33:18 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring FrameworkServlet 'Remoting Servlet'
+Mai 17, 2016 10:33:19 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deployment of configuration descriptor C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml has finished in 84,179 ms
+Mai 17, 2016 10:33:19 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\calendar-portlet
+Mai 17, 2016 10:33:21 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:33:21,898 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin calendar-portlet requires marketplace-portlet
+10:33:21,944 INFO  [localhost-startStop-1][HotDeployImpl:276] Queueing calendar-portlet for deploy because it is missing marketplace-portlet
+Mai 17, 2016 10:33:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\calendar-portlet has finished in 2,245 ms
+Mai 17, 2016 10:33:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\kaleo-web
+Mai 17, 2016 10:33:24 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:33:24,062 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin kaleo-web requires marketplace-portlet
+10:33:24,063 INFO  [localhost-startStop-1][HotDeployImpl:276] Queueing kaleo-web for deploy because it is missing marketplace-portlet
+Mai 17, 2016 10:33:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\kaleo-web has finished in 2,116 ms
+Mai 17, 2016 10:33:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\marketplace-portlet
+Mai 17, 2016 10:33:25 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:33:25,957 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying marketplace-portlet from queue
+10:33:25,960 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for marketplace-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:33:26 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/service.properties
+10:33:26,980 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for marketplace-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portal.properties
+10:33:27,101 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for marketplace-portlet is available for use
+10:33:27,108 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for marketplace-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portlet.properties
+10:33:27,439 INFO  [localhost-startStop-1][PortletHotDeployListener:497] 3 portlets for marketplace-portlet are available for use
+10:33:27,441 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying calendar-portlet from queue
+10:33:27,442 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for calendar-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:33:27 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/service.properties
+10:33:28,983 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for calendar-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portal.properties
+10:33:31,018 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for calendar-portlet is available for use
+10:33:31,058 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for calendar-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portlet.properties
+10:33:31,503 INFO  [localhost-startStop-1][PortletHotDeployListener:492] 1 portlet for calendar-portlet is available for use
+10:33:31,504 INFO  [localhost-startStop-1][SocialHotDeployListener:94] Registering social for calendar-portlet
+10:33:31,506 INFO  [localhost-startStop-1][SocialHotDeployListener:103] Social for calendar-portlet is available for use
+10:33:31,507 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying kaleo-web from queue
+10:33:31,523 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for kaleo-web
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:33:32 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/service.properties
+10:33:35,172 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for kaleo-web
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/portal.properties
+10:33:35,218 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for kaleo-web is available for use
+Mai 17, 2016 10:33:35 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\marketplace-portlet has finished in 11,543 ms
+Mai 17, 2016 10:33:35 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\notifications-portlet
+Mai 17, 2016 10:33:36 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:33:36,930 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin notifications-portlet requires marketplace-portlet
+10:33:36,930 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying notifications-portlet from queue
+10:33:36,930 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for notifications-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:33:37 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/service.properties
+10:33:37,420 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for notifications-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portal.properties
+10:33:37,686 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for notifications-portlet is available for use
+10:33:37,689 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for notifications-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portlet.properties
+10:33:37,905 INFO  [localhost-startStop-1][PortletHotDeployListener:497] 2 portlets for notifications-portlet are available for use
+Mai 17, 2016 10:33:37 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\notifications-portlet has finished in 2,331 ms
+Mai 17, 2016 10:33:37 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\opensocial-portlet
+Mai 17, 2016 10:33:40 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:33:40,377 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin opensocial-portlet requires marketplace-portlet
+10:33:40,378 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying opensocial-portlet from queue
+10:33:40,378 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for opensocial-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:33:41 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/service.properties
+10:33:41,614 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for opensocial-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portal.properties
+10:33:41,694 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for opensocial-portlet is available for use
+10:33:41,698 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for opensocial-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portlet.properties
+10:33:42,138 INFO  [localhost-startStop-1][PortletHotDeployListener:497] 4 portlets for opensocial-portlet are available for use
+Mai 17, 2016 10:33:42 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\opensocial-portlet has finished in 4,662 ms
+Mai 17, 2016 10:33:42 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\qg-portlet
+Mai 17, 2016 10:33:43 AM org.apache.shindig.config.JsonContainerConfig loadContainers
+INFORMATION: Loading resources from: containers/default/container.js
+Mai 17, 2016 10:33:43 AM org.apache.shindig.config.JsonContainerConfig loadResources
+INFORMATION: Reading container config: containers/default/container.js
+Mai 17, 2016 10:33:43 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features-extras/features.txt
+Mai 17, 2016 10:33:43 AM org.apache.shindig.common.xml.XmlUtil <clinit>
+INFORMATION: Reusing document builders
+Mai 17, 2016 10:33:45 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:33:45,972 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin qg-portlet requires marketplace-portlet
+10:33:45,972 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying qg-portlet from queue
+10:33:45,972 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for qg-portlet
+Mai 17, 2016 10:33:46 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features/features.txt
+Mai 17, 2016 10:33:46 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+10:33:46,918 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for qg-portlet
+10:33:47,019 INFO  [localhost-startStop-1][PortletHotDeployListener:492] 1 portlet for qg-portlet is available for use
+Mai 17, 2016 10:33:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\qg-portlet has finished in 4,526 ms
+Mai 17, 2016 10:33:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\resources-importer-web
+Mai 17, 2016 10:33:48 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:33:48,080 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin resources-importer-web requires marketplace-portlet
+10:33:48,081 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying resources-importer-web from queue
+10:33:48,082 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for resources-importer-web
+Mai 17, 2016 10:33:48 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+10:33:48,279 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for resources-importer-web
+10:33:48,288 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for resources-importer-web is available for use
+Mai 17, 2016 10:33:48 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\resources-importer-web has finished in 1,204 ms
+Mai 17, 2016 10:33:48 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\sync-web
+Mai 17, 2016 10:33:49 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:33:49,635 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin sync-web requires marketplace-portlet
+10:33:49,636 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying sync-web from queue
+10:33:49,636 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for sync-web
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:33:49 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/service.properties
+Mai 17, 2016 10:33:50 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@2a8a8ad5
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/service.properties
+Mai 17, 2016 10:33:50 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@2a8a8ad5
+Mai 17, 2016 10:33:50 AM org.apache.shindig.gadgets.oauth.OAuthModule$OAuthCrypterProvider <init>
+INFORMATION: Using random key for OAuth client-side state encryption
+10:33:50,466 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for sync-web
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/portal.properties
+10:33:53,601 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for sync-web is available for use
+Mai 17, 2016 10:33:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\sync-web has finished in 5,461 ms
+Mai 17, 2016 10:33:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\web-form-portlet
+Mai 17, 2016 10:33:54 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:33:54,845 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin web-form-portlet requires marketplace-portlet
+10:33:54,845 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying web-form-portlet from queue
+10:33:54,845 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for web-form-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/8-web-form-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/8-web-form-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:33:55 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+10:33:55,030 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for web-form-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/8-web-form-portlet/WEB-INF/classes/portlet.properties
+10:33:55,119 INFO  [localhost-startStop-1][PortletHotDeployListener:492] 1 portlet for web-form-portlet is available for use
+Mai 17, 2016 10:33:55 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\web-form-portlet has finished in 1,346 ms
+Mai 17, 2016 10:33:55 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:33:55 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:33:55 AM org.apache.catalina.startup.Catalina start
+INFORMATION: Server startup in 119716 ms
+10:34:10,217 WARN  [http-bio-8080-exec-9][code_jsp:?] {code="404", msg="/webapps/ROOT/html/VAADIN/vaadinBootstrap.js", uri=/webapps/ROOT/html/VAADIN/vaadinBootstrap.js}
+10:34:10,224 WARN  [http-bio-8080-exec-9][code_jsp:?] {code="404", msg="/webapps/ROOT/html/VAADIN/vaadinBootstrap.js", uri=/webapps/ROOT/html/VAADIN/vaadinBootstrap.js}
+10:36:03,385 WARN  [http-bio-8080-exec-5][code_jsp:?] {code="404", msg="/webapps/ROOT/html/VAADIN/vaadinBootstrap.js", uri=/webapps/ROOT/html/VAADIN/vaadinBootstrap.js}
+10:38:26,581 WARN  [http-bio-8080-exec-6][code_jsp:?] {code="404", msg="/tomcat-7.0.62/webapps/ROOT/html/VAADIN/vaadinBootstrap.js", uri=/tomcat-7.0.62/webapps/ROOT/html/VAADIN/vaadinBootstrap.js}
+10:38:26,821 WARN  [http-bio-8080-exec-6][code_jsp:?] {code="404", msg="/tomcat-7.0.62/webapps/ROOT/html/VAADIN/vaadinBootstrap.js", uri=/tomcat-7.0.62/webapps/ROOT/html/VAADIN/vaadinBootstrap.js}
+10:38:31,838 WARN  [http-bio-8080-exec-6][code_jsp:?] {code="404", msg="/tomcat-7.0.62/webapps/ROOT/html/VAADIN/vaadinBootstrap.js", uri=/tomcat-7.0.62/webapps/ROOT/html/VAADIN/vaadinBootstrap.js}
+10:38:49,467 WARN  [http-bio-8080-exec-9][code_jsp:?] {code="404", msg="/webapps/ROOT/html/VAADIN/vaadinBootstrap.js", uri=/webapps/ROOT/html/VAADIN/vaadinBootstrap.js}
+10:39:48,830 WARN  [http-bio-8080-exec-10][code_jsp:?] {code="404", msg="/webapps/ROOT/html/VAADIN/vaadinBootstrap.js", uri=/webapps/ROOT/html/VAADIN/vaadinBootstrap.js}
+10:41:33,641 WARN  [http-bio-8080-exec-10][code_jsp:?] {code="404", msg="/webapps/ROOT/html/VAADIN/vaadinBootstrap.js", uri=/webapps/ROOT/html/VAADIN/vaadinBootstrap.js}
+Mai 17, 2016 10:46:24 AM org.apache.coyote.AbstractProtocol pause
+INFORMATION: Pausing ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:46:24 AM org.apache.coyote.AbstractProtocol pause
+INFORMATION: Pausing ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:46:24 AM org.apache.catalina.core.StandardService stopInternal
+INFORMATION: Stopping service Catalina
+10:46:24,804 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin web-form-portlet requires marketplace-portlet
+10:46:24,809 INFO  [localhost-startStop-2][PortletHotDeployListener:525] Unregistering portlets for web-form-portlet
+10:46:24,815 INFO  [localhost-startStop-2][PortletHotDeployListener:560] 1 portlet for web-form-portlet was unregistered
+Mai 17, 2016 10:46:24 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:46:24,819 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for web-form-portlet
+10:46:24,836 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin sync-web requires marketplace-portlet
+10:46:24,839 INFO  [localhost-startStop-2][HookHotDeployListener:982] Hook for sync-web was unregistered
+Mai 17, 2016 10:46:24 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:46:24,849 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for sync-web
+10:46:24,857 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin resources-importer-web requires marketplace-portlet
+10:46:24,859 INFO  [localhost-startStop-2][HookHotDeployListener:982] Hook for resources-importer-web was unregistered
+Mai 17, 2016 10:46:24 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:46:24,863 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for resources-importer-web
+10:46:24,878 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin qg-portlet requires marketplace-portlet
+10:46:24,878 INFO  [localhost-startStop-2][PortletHotDeployListener:525] Unregistering portlets for qg-portlet
+10:46:24,881 INFO  [localhost-startStop-2][PortletHotDeployListener:560] 1 portlet for qg-portlet was unregistered
+Mai 17, 2016 10:46:24 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:46:24,884 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for qg-portlet
+10:46:24,889 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin opensocial-portlet requires marketplace-portlet
+10:46:24,889 INFO  [localhost-startStop-2][PortletHotDeployListener:525] Unregistering portlets for opensocial-portlet
+10:46:24,893 INFO  [localhost-startStop-2][PortletHotDeployListener:565] 4 portlets for opensocial-portlet were unregistered
+10:46:24,944 INFO  [localhost-startStop-2][HookHotDeployListener:982] Hook for opensocial-portlet was unregistered
+Mai 17, 2016 10:46:24 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:46:24,953 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for opensocial-portlet
+10:46:24,959 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin notifications-portlet requires marketplace-portlet
+10:46:24,960 INFO  [localhost-startStop-2][PortletHotDeployListener:525] Unregistering portlets for notifications-portlet
+10:46:24,961 INFO  [localhost-startStop-2][PortletHotDeployListener:565] 2 portlets for notifications-portlet were unregistered
+10:46:25,004 INFO  [localhost-startStop-2][HookHotDeployListener:982] Hook for notifications-portlet was unregistered
+Mai 17, 2016 10:46:25 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:46:25,008 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for notifications-portlet
+10:46:25,013 INFO  [localhost-startStop-2][PortletHotDeployListener:525] Unregistering portlets for marketplace-portlet
+10:46:25,016 INFO  [localhost-startStop-2][PortletHotDeployListener:565] 3 portlets for marketplace-portlet were unregistered
+10:46:25,017 INFO  [localhost-startStop-2][HookHotDeployListener:982] Hook for marketplace-portlet was unregistered
+Mai 17, 2016 10:46:25 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:46:25,020 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for marketplace-portlet
+10:46:25,026 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin kaleo-web requires marketplace-portlet
+10:46:25,028 INFO  [localhost-startStop-2][HookHotDeployListener:982] Hook for kaleo-web was unregistered
+Mai 17, 2016 10:46:25 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:46:25,037 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for kaleo-web
+10:46:25,052 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin calendar-portlet requires marketplace-portlet
+10:46:25,053 INFO  [localhost-startStop-2][SocialHotDeployListener:159] Social for calendar-portlet was unregistered
+10:46:25,054 INFO  [localhost-startStop-2][PortletHotDeployListener:525] Unregistering portlets for calendar-portlet
+10:46:25,059 INFO  [localhost-startStop-2][PortletHotDeployListener:560] 1 portlet for calendar-portlet was unregistered
+10:46:25,106 INFO  [localhost-startStop-2][HookHotDeployListener:982] Hook for calendar-portlet was unregistered
+Mai 17, 2016 10:46:25 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:46:25,111 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for calendar-portlet
+WARN: The method class org.apache.commons.logging.impl.SLF4JLogFactory#release() was invoked.
+WARN: Please see http://www.slf4j.org/codes.html#release for an explanation.
+Mai 17, 2016 10:46:26 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Destroying Spring FrameworkServlet 'Remoting Servlet'
+Mai 17, 2016 10:46:26 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+Mai 17, 2016 10:46:26 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [org.python.google.common.base.internal.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:46:28 AM org.apache.catalina.core.StandardServer await
+INFORMATION: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Mai 17, 2016 10:46:29 AM org.apache.coyote.AbstractProtocol stop
+INFORMATION: Stopping ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:46:29 AM org.apache.coyote.AbstractProtocol stop
+INFORMATION: Stopping ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:46:29 AM org.apache.coyote.AbstractProtocol destroy
+INFORMATION: Destroying ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:46:29 AM org.apache.coyote.AbstractProtocol destroy
+INFORMATION: Destroying ProtocolHandler ["ajp-bio-8009"]
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=256m; support was removed in 8.0
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server version:        Apache Tomcat/7.0.62
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server built:          May 7 2015 17:14:55 UTC
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server number:         7.0.62.0
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Name:               Windows 8.1
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Version:            6.3
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Architecture:          amd64
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Java Home:             c:\java\jdk1.8.0_25\jre
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Version:           1.8.0_25-b18
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Vendor:            Oracle Corporation
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_BASE:         c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_HOME:         c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.config.file=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/conf/logging.properties
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dfile.encoding=UTF8
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.net.preferIPv4Stack=true
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dorg.apache.catalina.loader.WebappClassLoader.ENABLE_CLEAR_REFERENCES=false
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Duser.timezone=GMT
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Xmx1024m
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -XX:MaxPermSize=256m
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.endorsed.dirs=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/endorsed
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.base=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.home=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62
+Mai 17, 2016 10:46:32 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.io.tmpdir=c:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp
+Mai 17, 2016 10:46:32 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFORMATION: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: c:\java\jdk1.8.0_25\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\slash1990\bin;.;C:\Program Files (x86)\Git\local\bin;C:\Program Files (x86)\Git\mingw\bin;C:\Program Files (x86)\Git\bin;c:\Program Files\ImageMagick-6.9.1-Q16;c:\activator;c:\java\jdk1.8.0_25\bin;c:\Windows\system32;c:\Windows;c:\Windows\System32\Wbem;c:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\ThinkPad\Bluetooth Software\;c:\Program Files\ThinkPad\Bluetooth Software\syswow64;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;c:\Program Files (x86)\Common Files\Ulead Systems\MPEG;c:\Program Files (x86)\Lenovo\Access Connections\;c:\SWTOOLS\ReadyApps;c:\Program Files (x86)\Common Files\Lenovo;c:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;c:\xampp\php;c:\xampp\php\ext;c:\xampp\pqsql\lib;c:\xampp\pqsql\bin;c:\xampp\mysql\bin;c:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;c:\Program Files\apache-maven-3.2.3\bin;c:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\Git\cmd;c:\rubygems-2.4.2\bin;c:\Ruby21\bin;c:\Program Files (x86)\QuickTime\QTSystem\;c:\Program Files\TortoiseGit\bin;c:\Program Files\sbt\sbt-0.13.8\sbt\bin;c:\Program Files (x86)\nodejs\;c:\sqlite;c:\Program Files (x86)\Skype\Phone\;c:\WINDOWS\system32;c:\WINDOWS;c:\WINDOWS\System32\Wbem;c:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Vagrant\bin;c:\Programme\Boot2Docker for Windows;c:\Users\slash1990\AppData\Roaming\npm;.
+Mai 17, 2016 10:46:33 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:46:33 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:46:33 AM org.apache.catalina.startup.Catalina load
+INFORMATION: Initialization processed in 699 ms
+Mai 17, 2016 10:46:33 AM org.apache.catalina.core.StandardService startInternal
+INFORMATION: Starting service Catalina
+Mai 17, 2016 10:46:33 AM org.apache.catalina.core.StandardEngine startInternal
+INFORMATION: Starting Servlet Engine: Apache Tomcat/7.0.62
+Mai 17, 2016 10:46:33 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deploying configuration descriptor C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml
+Mai 17, 2016 10:46:46 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Loading jar:file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/webapps/ROOT/WEB-INF/lib/portal-impl.jar!/system.properties
+Loading jar:file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/webapps/ROOT/WEB-INF/lib/portal-impl.jar!/portal.properties
+Loading file:/c:/Masterthesis/liferay-portal-6.2/portal-ext.properties
+Loading file:/c:/Masterthesis/liferay-portal-6.2/portal-setup-wizard.properties
+Mai 17, 2016 10:46:49 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+10:46:56,318 INFO  [localhost-startStop-1][DialectDetector:71] Determine dialect for MySQL 5
+10:46:56,369 INFO  [localhost-startStop-1][DialectDetector:136] Found dialect org.hibernate.dialect.MySQLDialect
+Starting Liferay Portal Community Edition 6.2 CE GA6 (Newton / Build 6205 / January 6, 2016)
+10:47:29,902 INFO  [localhost-startStop-1][StartupAction:97] There are no patches installed
+10:47:30,937 INFO  [localhost-startStop-1][BaseDB:484] Database does not support case sensitive queries
+10:47:31,384 INFO  [localhost-startStop-1][ServerDetector:140] Server supports hot deploy
+10:47:31,394 INFO  [localhost-startStop-1][PluginPackageUtil:1013] Reading plugin package for the root context
+10:47:37,698 INFO  [localhost-startStop-1][AutoDeployDir:139] Auto deploy scanner started for c:\Masterthesis\liferay-portal-6.2\deploy
+Mai 17, 2016 10:47:43 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring FrameworkServlet 'Remoting Servlet'
+Mai 17, 2016 10:47:44 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deployment of configuration descriptor C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml has finished in 71,005 ms
+Mai 17, 2016 10:47:44 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\calendar-portlet
+Mai 17, 2016 10:47:46 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:47:46,266 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin calendar-portlet requires marketplace-portlet
+10:47:46,319 INFO  [localhost-startStop-1][HotDeployImpl:276] Queueing calendar-portlet for deploy because it is missing marketplace-portlet
+Mai 17, 2016 10:47:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\calendar-portlet has finished in 2,088 ms
+Mai 17, 2016 10:47:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\kaleo-web
+Mai 17, 2016 10:47:48 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:47:48,056 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin kaleo-web requires marketplace-portlet
+10:47:48,056 INFO  [localhost-startStop-1][HotDeployImpl:276] Queueing kaleo-web for deploy because it is missing marketplace-portlet
+Mai 17, 2016 10:47:48 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\kaleo-web has finished in 1,735 ms
+Mai 17, 2016 10:47:48 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\marketplace-portlet
+Mai 17, 2016 10:47:49 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:47:49,148 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying marketplace-portlet from queue
+10:47:49,150 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for marketplace-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:47:49 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/service.properties
+10:47:50,186 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for marketplace-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portal.properties
+10:47:50,303 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for marketplace-portlet is available for use
+10:47:50,309 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for marketplace-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portlet.properties
+10:47:50,747 INFO  [localhost-startStop-1][PortletHotDeployListener:497] 3 portlets for marketplace-portlet are available for use
+10:47:50,750 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying calendar-portlet from queue
+10:47:50,751 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for calendar-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:47:51 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/service.properties
+10:47:52,590 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for calendar-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portal.properties
+10:47:54,780 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for calendar-portlet is available for use
+10:47:55,017 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for calendar-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portlet.properties
+10:47:55,363 INFO  [localhost-startStop-1][PortletHotDeployListener:492] 1 portlet for calendar-portlet is available for use
+10:47:55,364 INFO  [localhost-startStop-1][SocialHotDeployListener:94] Registering social for calendar-portlet
+10:47:55,366 INFO  [localhost-startStop-1][SocialHotDeployListener:103] Social for calendar-portlet is available for use
+10:47:55,367 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying kaleo-web from queue
+10:47:55,368 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for kaleo-web
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:47:55 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/service.properties
+10:47:59,675 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for kaleo-web
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/portal.properties
+10:47:59,711 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for kaleo-web is available for use
+Mai 17, 2016 10:48:00 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\marketplace-portlet has finished in 12,100 ms
+Mai 17, 2016 10:48:00 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\notifications-portlet
+Mai 17, 2016 10:48:01 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:48:01,297 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin notifications-portlet requires marketplace-portlet
+10:48:01,297 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying notifications-portlet from queue
+10:48:01,297 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for notifications-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:48:01 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/service.properties
+10:48:01,720 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for notifications-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portal.properties
+10:48:02,012 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for notifications-portlet is available for use
+10:48:02,015 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for notifications-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portlet.properties
+10:48:02,177 INFO  [localhost-startStop-1][PortletHotDeployListener:497] 2 portlets for notifications-portlet are available for use
+Mai 17, 2016 10:48:02 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\notifications-portlet has finished in 2,060 ms
+Mai 17, 2016 10:48:02 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\opensocial-portlet
+Mai 17, 2016 10:48:04 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:48:04,382 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin opensocial-portlet requires marketplace-portlet
+10:48:04,382 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying opensocial-portlet from queue
+10:48:04,382 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for opensocial-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:48:05 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/service.properties
+10:48:05,593 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for opensocial-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portal.properties
+10:48:05,646 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for opensocial-portlet is available for use
+10:48:05,651 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for opensocial-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portlet.properties
+10:48:06,083 INFO  [localhost-startStop-1][PortletHotDeployListener:497] 4 portlets for opensocial-portlet are available for use
+Mai 17, 2016 10:48:06 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\opensocial-portlet has finished in 4,364 ms
+Mai 17, 2016 10:48:06 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\qg-portlet
+Mai 17, 2016 10:48:07 AM org.apache.shindig.config.JsonContainerConfig loadContainers
+INFORMATION: Loading resources from: containers/default/container.js
+Mai 17, 2016 10:48:07 AM org.apache.shindig.config.JsonContainerConfig loadResources
+INFORMATION: Reading container config: containers/default/container.js
+Mai 17, 2016 10:48:08 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features-extras/features.txt
+Mai 17, 2016 10:48:08 AM org.apache.shindig.common.xml.XmlUtil <clinit>
+INFORMATION: Reusing document builders
+Mai 17, 2016 10:48:09 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:48:09,064 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin qg-portlet requires marketplace-portlet
+10:48:09,065 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying qg-portlet from queue
+10:48:09,065 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for qg-portlet
+Mai 17, 2016 10:48:09 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features/features.txt
+Mai 17, 2016 10:48:09 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+10:48:10,002 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for qg-portlet
+10:48:10,098 INFO  [localhost-startStop-1][PortletHotDeployListener:492] 1 portlet for qg-portlet is available for use
+Mai 17, 2016 10:48:10 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\qg-portlet has finished in 3,654 ms
+Mai 17, 2016 10:48:10 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\resources-importer-web
+Mai 17, 2016 10:48:11 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:48:11,330 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin resources-importer-web requires marketplace-portlet
+10:48:11,330 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying resources-importer-web from queue
+10:48:11,331 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for resources-importer-web
+Mai 17, 2016 10:48:11 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+10:48:11,530 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for resources-importer-web
+10:48:11,540 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for resources-importer-web is available for use
+Mai 17, 2016 10:48:11 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\resources-importer-web has finished in 1,351 ms
+Mai 17, 2016 10:48:11 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\sync-web
+Mai 17, 2016 10:48:13 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:48:13,027 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin sync-web requires marketplace-portlet
+10:48:13,027 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying sync-web from queue
+10:48:13,028 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for sync-web
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:48:13 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/service.properties
+10:48:13,723 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for sync-web
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/portal.properties
+10:48:17,265 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for sync-web is available for use
+Mai 17, 2016 10:48:17 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\sync-web has finished in 5,883 ms
+Mai 17, 2016 10:48:17 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\web-form-portlet
+Mai 17, 2016 10:48:17 AM org.apache.shindig.gadgets.http.BasicHttpFetcher fetch
+INFORMATION: Timeout for http://www.google.com/ig/lib/libanalytics.js Exception: java.net.SocketTimeoutException - Read timed out - 5148ms
+Mai 17, 2016 10:48:17 AM org.apache.shindig.gadgets.features.FeatureResourceLoader$UriResource getContent
+WARNUNG: Unable to retrieve remote library from http://www.google.com/ig/lib/libanalytics.js
+Mai 17, 2016 10:48:18 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:48:18,617 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin web-form-portlet requires marketplace-portlet
+10:48:18,618 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying web-form-portlet from queue
+10:48:18,618 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for web-form-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/8-web-form-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/8-web-form-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:48:18 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+10:48:18,798 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for web-form-portlet
+Loading file:/C:/Masterthesis/liferay-portal-6.2/tomcat-7.0.62/temp/8-web-form-portlet/WEB-INF/classes/portlet.properties
+10:48:18,889 INFO  [localhost-startStop-1][PortletHotDeployListener:492] 1 portlet for web-form-portlet is available for use
+Mai 17, 2016 10:48:18 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-6.2\tomcat-7.0.62\webapps\web-form-portlet has finished in 1,446 ms
+Mai 17, 2016 10:48:18 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:48:18 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:48:18 AM org.apache.catalina.startup.Catalina start
+INFORMATION: Server startup in 105760 ms
+Mai 17, 2016 10:48:23 AM org.apache.shindig.gadgets.http.BasicHttpFetcher fetch
+INFORMATION: Timeout for http://www.google.com/ig/lib/libga.js Exception: java.net.SocketTimeoutException - Read timed out - 5052ms
+Mai 17, 2016 10:48:23 AM org.apache.shindig.gadgets.features.FeatureResourceLoader$UriResource getContent
+WARNUNG: Unable to retrieve remote library from http://www.google.com/ig/lib/libga.js
+Mai 17, 2016 10:48:23 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@30d82769
+Mai 17, 2016 10:48:23 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@30d82769
+Mai 17, 2016 10:48:23 AM org.apache.shindig.gadgets.oauth.OAuthModule$OAuthCrypterProvider <init>
+INFORMATION: Using random key for OAuth client-side state encryption
+10:48:33,872 WARN  [http-bio-8080-exec-1][code_jsp:?] {code="404", msg="/html/VAADIN/widgetsets/com.vaadin.server.DefaultWidgetSet/com.vaadin.server.DefaultWidgetSet.nocache.js", uri=/html/VAADIN/widgetsets/com.vaadin.server.DefaultWidgetSet/com.vaadin.server.DefaultWidgetSet.nocache.js}
+Mai 17, 2016 10:49:08 AM org.apache.coyote.AbstractProtocol pause
+INFORMATION: Pausing ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:49:08 AM org.apache.coyote.AbstractProtocol pause
+INFORMATION: Pausing ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:49:08 AM org.apache.catalina.core.StandardService stopInternal
+INFORMATION: Stopping service Catalina
+10:49:08,975 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin web-form-portlet requires marketplace-portlet
+10:49:08,977 INFO  [localhost-startStop-2][PortletHotDeployListener:525] Unregistering portlets for web-form-portlet
+10:49:08,985 INFO  [localhost-startStop-2][PortletHotDeployListener:560] 1 portlet for web-form-portlet was unregistered
+Mai 17, 2016 10:49:08 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:49:08,989 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for web-form-portlet
+10:49:09,003 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin sync-web requires marketplace-portlet
+10:49:09,005 INFO  [localhost-startStop-2][HookHotDeployListener:982] Hook for sync-web was unregistered
+Mai 17, 2016 10:49:09 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:49:09,014 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for sync-web
+10:49:09,030 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin resources-importer-web requires marketplace-portlet
+10:49:09,032 INFO  [localhost-startStop-2][HookHotDeployListener:982] Hook for resources-importer-web was unregistered
+Mai 17, 2016 10:49:09 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:49:09,035 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for resources-importer-web
+10:49:09,039 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin qg-portlet requires marketplace-portlet
+10:49:09,039 INFO  [localhost-startStop-2][PortletHotDeployListener:525] Unregistering portlets for qg-portlet
+10:49:09,041 INFO  [localhost-startStop-2][PortletHotDeployListener:560] 1 portlet for qg-portlet was unregistered
+Mai 17, 2016 10:49:09 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:49:09,045 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for qg-portlet
+10:49:09,050 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin opensocial-portlet requires marketplace-portlet
+10:49:09,051 INFO  [localhost-startStop-2][PortletHotDeployListener:525] Unregistering portlets for opensocial-portlet
+10:49:09,054 INFO  [localhost-startStop-2][PortletHotDeployListener:565] 4 portlets for opensocial-portlet were unregistered
+10:49:09,101 INFO  [localhost-startStop-2][HookHotDeployListener:982] Hook for opensocial-portlet was unregistered
+Mai 17, 2016 10:49:09 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:49:09,103 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for opensocial-portlet
+10:49:09,112 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin notifications-portlet requires marketplace-portlet
+10:49:09,112 INFO  [localhost-startStop-2][PortletHotDeployListener:525] Unregistering portlets for notifications-portlet
+10:49:09,115 INFO  [localhost-startStop-2][PortletHotDeployListener:565] 2 portlets for notifications-portlet were unregistered
+10:49:09,176 INFO  [localhost-startStop-2][HookHotDeployListener:982] Hook for notifications-portlet was unregistered
+Mai 17, 2016 10:49:09 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:49:09,179 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for notifications-portlet
+10:49:09,196 INFO  [localhost-startStop-2][PortletHotDeployListener:525] Unregistering portlets for marketplace-portlet
+10:49:09,198 INFO  [localhost-startStop-2][PortletHotDeployListener:565] 3 portlets for marketplace-portlet were unregistered
+10:49:09,199 INFO  [localhost-startStop-2][HookHotDeployListener:982] Hook for marketplace-portlet was unregistered
+Mai 17, 2016 10:49:09 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:49:09,204 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for marketplace-portlet
+10:49:09,211 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin kaleo-web requires marketplace-portlet
+10:49:09,213 INFO  [localhost-startStop-2][HookHotDeployListener:982] Hook for kaleo-web was unregistered
+Mai 17, 2016 10:49:09 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:49:09,221 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for kaleo-web
+10:49:09,279 INFO  [localhost-startStop-2][HotDeployEvent:145] Plugin calendar-portlet requires marketplace-portlet
+10:49:09,280 INFO  [localhost-startStop-2][SocialHotDeployListener:159] Social for calendar-portlet was unregistered
+10:49:09,281 INFO  [localhost-startStop-2][PortletHotDeployListener:525] Unregistering portlets for calendar-portlet
+10:49:09,286 INFO  [localhost-startStop-2][PortletHotDeployListener:560] 1 portlet for calendar-portlet was unregistered
+10:49:09,351 INFO  [localhost-startStop-2][HookHotDeployListener:982] Hook for calendar-portlet was unregistered
+Mai 17, 2016 10:49:09 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+10:49:09,354 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for calendar-portlet
+WARN: The method class org.apache.commons.logging.impl.SLF4JLogFactory#release() was invoked.
+WARN: Please see http://www.slf4j.org/codes.html#release for an explanation.
+Mai 17, 2016 10:49:10 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Destroying Spring FrameworkServlet 'Remoting Servlet'
+Mai 17, 2016 10:49:10 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Closing Spring root WebApplicationContext
+Mai 17, 2016 10:49:10 AM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SCHWERWIEGEND: The web application [] appears to have started a thread named [org.python.google.common.base.internal.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+Mai 17, 2016 10:49:13 AM org.apache.coyote.AbstractProtocol stop
+INFORMATION: Stopping ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:49:13 AM org.apache.coyote.AbstractProtocol stop
+INFORMATION: Stopping ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:49:13 AM org.apache.coyote.AbstractProtocol destroy
+INFORMATION: Destroying ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:49:13 AM org.apache.coyote.AbstractProtocol destroy
+INFORMATION: Destroying ProtocolHandler ["ajp-bio-8009"]
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=256m; support was removed in 8.0
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server version:        Apache Tomcat/7.0.62
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server built:          May 7 2015 17:14:55 UTC
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server number:         7.0.62.0
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Name:               Windows 8.1
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Version:            6.3
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Architecture:          amd64
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Java Home:             c:\java\jdk1.8.0_25\jre
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Version:           1.8.0_25-b18
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Vendor:            Oracle Corporation
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_BASE:         c:/Masterthesis/liferay-portal-server/tomcat-7.0.62
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_HOME:         c:/Masterthesis/liferay-portal-server/tomcat-7.0.62
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.config.file=c:/Masterthesis/liferay-portal-server/tomcat-7.0.62/conf/logging.properties
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dfile.encoding=UTF8
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.net.preferIPv4Stack=true
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dorg.apache.catalina.loader.WebappClassLoader.ENABLE_CLEAR_REFERENCES=false
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Duser.timezone=GMT
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Xmx1024m
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -XX:MaxPermSize=256m
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.endorsed.dirs=c:/Masterthesis/liferay-portal-server/tomcat-7.0.62/endorsed
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.base=c:/Masterthesis/liferay-portal-server/tomcat-7.0.62
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.home=c:/Masterthesis/liferay-portal-server/tomcat-7.0.62
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.io.tmpdir=c:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp
+Mai 17, 2016 10:52:19 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFORMATION: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: c:\java\jdk1.8.0_25\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\slash1990\bin;.;C:\Program Files (x86)\Git\local\bin;C:\Program Files (x86)\Git\mingw\bin;C:\Program Files (x86)\Git\bin;c:\Program Files\ImageMagick-6.9.1-Q16;c:\activator;c:\java\jdk1.8.0_25\bin;c:\Windows\system32;c:\Windows;c:\Windows\System32\Wbem;c:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\ThinkPad\Bluetooth Software\;c:\Program Files\ThinkPad\Bluetooth Software\syswow64;c:\Program Files\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;c:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;c:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;c:\Program Files (x86)\Common Files\Ulead Systems\MPEG;c:\Program Files (x86)\Lenovo\Access Connections\;c:\SWTOOLS\ReadyApps;c:\Program Files (x86)\Common Files\Lenovo;c:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;c:\xampp\php;c:\xampp\php\ext;c:\xampp\pqsql\lib;c:\xampp\pqsql\bin;c:\xampp\mysql\bin;c:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;c:\Program Files\apache-maven-3.2.3\bin;c:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\Git\cmd;c:\rubygems-2.4.2\bin;c:\Ruby21\bin;c:\Program Files (x86)\QuickTime\QTSystem\;c:\Program Files\TortoiseGit\bin;c:\Program Files\sbt\sbt-0.13.8\sbt\bin;c:\Program Files (x86)\nodejs\;c:\sqlite;c:\Program Files (x86)\Skype\Phone\;c:\WINDOWS\system32;c:\WINDOWS;c:\WINDOWS\System32\Wbem;c:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Vagrant\bin;c:\Programme\Boot2Docker for Windows;c:\Users\slash1990\AppData\Roaming\npm;.
+Mai 17, 2016 10:52:19 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:52:19 AM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.Catalina load
+INFORMATION: Initialization processed in 707 ms
+Mai 17, 2016 10:52:19 AM org.apache.catalina.core.StandardService startInternal
+INFORMATION: Starting service Catalina
+Mai 17, 2016 10:52:19 AM org.apache.catalina.core.StandardEngine startInternal
+INFORMATION: Starting Servlet Engine: Apache Tomcat/7.0.62
+Mai 17, 2016 10:52:19 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deploying configuration descriptor C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml
+Mai 17, 2016 10:52:33 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Loading jar:file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/webapps/ROOT/WEB-INF/lib/portal-impl.jar!/system.properties
+Loading jar:file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/webapps/ROOT/WEB-INF/lib/portal-impl.jar!/portal.properties
+Loading file:/c:/Masterthesis/liferay-portal-server/portal-ext.properties
+Loading file:/c:/Masterthesis/liferay-portal-server/portal-setup-wizard.properties
+Mai 17, 2016 10:52:35 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+10:52:40,827 INFO  [localhost-startStop-1][DialectDetector:71] Determine dialect for MySQL 5
+10:52:40,889 INFO  [localhost-startStop-1][DialectDetector:136] Found dialect org.hibernate.dialect.MySQLDialect
+Starting Liferay Portal Community Edition 6.2 CE GA6 (Newton / Build 6205 / January 6, 2016)
+10:53:12,024 INFO  [localhost-startStop-1][StartupAction:97] There are no patches installed
+10:53:12,757 INFO  [localhost-startStop-1][BaseDB:484] Database does not support case sensitive queries
+10:53:13,299 INFO  [localhost-startStop-1][ServerDetector:140] Server supports hot deploy
+10:53:13,309 INFO  [localhost-startStop-1][PluginPackageUtil:1013] Reading plugin package for the root context
+10:53:19,617 INFO  [localhost-startStop-1][AutoDeployDir:139] Auto deploy scanner started for c:\Masterthesis\liferay-portal-6.2\deploy
+Mai 17, 2016 10:53:24 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring FrameworkServlet 'Remoting Servlet'
+Mai 17, 2016 10:53:25 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMATION: Deployment of configuration descriptor C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\conf\Catalina\localhost\ROOT.xml has finished in 65,501 ms
+Mai 17, 2016 10:53:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\calendar-portlet
+Mai 17, 2016 10:53:28 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:53:28,298 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin calendar-portlet requires marketplace-portlet
+10:53:28,360 INFO  [localhost-startStop-1][HotDeployImpl:276] Queueing calendar-portlet for deploy because it is missing marketplace-portlet
+Mai 17, 2016 10:53:28 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\calendar-portlet has finished in 3,020 ms
+Mai 17, 2016 10:53:28 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\kaleo-web
+Mai 17, 2016 10:53:31 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:53:31,052 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin kaleo-web requires marketplace-portlet
+10:53:31,054 INFO  [localhost-startStop-1][HotDeployImpl:276] Queueing kaleo-web for deploy because it is missing marketplace-portlet
+Mai 17, 2016 10:53:31 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\kaleo-web has finished in 2,695 ms
+Mai 17, 2016 10:53:31 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\marketplace-portlet
+Mai 17, 2016 10:53:33 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:53:33,044 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying marketplace-portlet from queue
+10:53:33,046 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for marketplace-portlet
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:53:33 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/service.properties
+10:53:34,218 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for marketplace-portlet
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portal.properties
+10:53:34,390 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for marketplace-portlet is available for use
+10:53:34,406 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for marketplace-portlet
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/2-marketplace-portlet/WEB-INF/classes/portlet.properties
+10:53:34,820 INFO  [localhost-startStop-1][PortletHotDeployListener:497] 3 portlets for marketplace-portlet are available for use
+10:53:34,824 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying calendar-portlet from queue
+10:53:34,824 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for calendar-portlet
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:53:35 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/service.properties
+10:53:36,639 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for calendar-portlet
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portal.properties
+10:53:38,341 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for calendar-portlet is available for use
+10:53:38,381 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for calendar-portlet
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/0-calendar-portlet/WEB-INF/classes/portlet.properties
+10:53:38,797 INFO  [localhost-startStop-1][PortletHotDeployListener:492] 1 portlet for calendar-portlet is available for use
+10:53:38,798 INFO  [localhost-startStop-1][SocialHotDeployListener:94] Registering social for calendar-portlet
+10:53:38,801 INFO  [localhost-startStop-1][SocialHotDeployListener:103] Social for calendar-portlet is available for use
+10:53:38,801 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying kaleo-web from queue
+10:53:38,803 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for kaleo-web
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:53:39 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/service.properties
+10:53:42,221 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for kaleo-web
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/1-kaleo-web/WEB-INF/classes/portal.properties
+10:53:42,264 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for kaleo-web is available for use
+Mai 17, 2016 10:53:42 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\marketplace-portlet has finished in 11,634 ms
+Mai 17, 2016 10:53:42 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\notifications-portlet
+Mai 17, 2016 10:53:44 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:53:44,356 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin notifications-portlet requires marketplace-portlet
+10:53:44,357 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying notifications-portlet from queue
+10:53:44,357 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for notifications-portlet
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:53:44 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/service.properties
+10:53:44,930 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for notifications-portlet
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portal.properties
+10:53:45,272 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for notifications-portlet is available for use
+10:53:45,276 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for notifications-portlet
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/3-notifications-portlet/WEB-INF/classes/portlet.properties
+10:53:45,542 INFO  [localhost-startStop-1][PortletHotDeployListener:497] 2 portlets for notifications-portlet are available for use
+Mai 17, 2016 10:53:45 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\notifications-portlet has finished in 2,880 ms
+Mai 17, 2016 10:53:45 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\opensocial-portlet
+Mai 17, 2016 10:53:49 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:53:49,066 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin opensocial-portlet requires marketplace-portlet
+10:53:49,067 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying opensocial-portlet from queue
+10:53:49,068 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for opensocial-portlet
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:53:50 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/service.properties
+10:53:50,712 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for opensocial-portlet
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portal.properties
+10:53:50,758 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for opensocial-portlet is available for use
+10:53:50,762 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for opensocial-portlet
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/4-opensocial-portlet/WEB-INF/classes/portlet.properties
+10:53:51,262 INFO  [localhost-startStop-1][PortletHotDeployListener:497] 4 portlets for opensocial-portlet are available for use
+Mai 17, 2016 10:53:51 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\opensocial-portlet has finished in 6,097 ms
+Mai 17, 2016 10:53:51 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\qg-portlet
+Mai 17, 2016 10:53:52 AM org.apache.shindig.config.JsonContainerConfig loadContainers
+INFORMATION: Loading resources from: containers/default/container.js
+Mai 17, 2016 10:53:52 AM org.apache.shindig.config.JsonContainerConfig loadResources
+INFORMATION: Reading container config: containers/default/container.js
+Mai 17, 2016 10:53:53 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features-extras/features.txt
+Mai 17, 2016 10:53:53 AM org.apache.shindig.common.xml.XmlUtil <clinit>
+INFORMATION: Reusing document builders
+Mai 17, 2016 10:53:54 AM org.apache.shindig.gadgets.features.FeatureRegistry register
+INFORMATION: Loading resources from: res:features/features.txt
+Mai 17, 2016 10:53:54 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:53:54,997 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin qg-portlet requires marketplace-portlet
+10:53:54,998 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying qg-portlet from queue
+10:53:54,998 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for qg-portlet
+Mai 17, 2016 10:53:56 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+10:53:56,588 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for qg-portlet
+10:53:56,707 INFO  [localhost-startStop-1][PortletHotDeployListener:492] 1 portlet for qg-portlet is available for use
+Mai 17, 2016 10:53:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\qg-portlet has finished in 5,416 ms
+Mai 17, 2016 10:53:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\resources-importer-web
+Mai 17, 2016 10:53:59 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:53:59,970 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin resources-importer-web requires marketplace-portlet
+10:53:59,970 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying resources-importer-web from queue
+10:53:59,971 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for resources-importer-web
+Mai 17, 2016 10:54:00 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+10:54:00,248 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for resources-importer-web
+10:54:00,273 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for resources-importer-web is available for use
+Mai 17, 2016 10:54:00 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\resources-importer-web has finished in 3,229 ms
+Mai 17, 2016 10:54:00 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\sync-web
+Mai 17, 2016 10:54:02 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:54:02,393 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin sync-web requires marketplace-portlet
+10:54:02,397 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying sync-web from queue
+10:54:02,397 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for sync-web
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:54:02 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/service.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/service.properties
+Mai 17, 2016 10:54:03 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@21199a48
+Mai 17, 2016 10:54:03 AM org.apache.shindig.gadgets.servlet.CajaContentRewriter <init>
+INFORMATION: Cajoled cache createdorg.apache.shindig.common.cache.ehcache.EhConfiguredCache@21199a48
+Mai 17, 2016 10:54:03 AM org.apache.shindig.gadgets.oauth.OAuthModule$OAuthCrypterProvider <init>
+INFORMATION: Using random key for OAuth client-side state encryption
+10:54:03,534 INFO  [localhost-startStop-1][HookHotDeployListener:709] Registering hook for sync-web
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/7-sync-web/WEB-INF/classes/portal.properties
+10:54:07,925 INFO  [localhost-startStop-1][HookHotDeployListener:851] Hook for sync-web is available for use
+Mai 17, 2016 10:54:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\sync-web has finished in 7,854 ms
+Mai 17, 2016 10:54:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deploying web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\web-form-portlet
+Mai 17, 2016 10:54:09 AM org.apache.catalina.startup.TldConfig execute
+INFORMATION: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10:54:09,628 INFO  [localhost-startStop-1][HotDeployEvent:145] Plugin web-form-portlet requires marketplace-portlet
+10:54:09,629 INFO  [localhost-startStop-1][HotDeployImpl:217] Deploying web-form-portlet from queue
+10:54:09,630 INFO  [localhost-startStop-1][PluginPackageUtil:1016] Reading plugin package for web-form-portlet
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/8-web-form-portlet/WEB-INF/classes/portlet.properties
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/8-web-form-portlet/WEB-INF/classes/portlet.properties
+Mai 17, 2016 10:54:09 AM org.apache.catalina.core.ApplicationContext log
+INFORMATION: Initializing Spring root WebApplicationContext
+10:54:09,907 INFO  [localhost-startStop-1][PortletHotDeployListener:344] Registering portlets for web-form-portlet
+Loading file:/C:/Masterthesis/liferay-portal-server/tomcat-7.0.62/temp/8-web-form-portlet/WEB-INF/classes/portlet.properties
+10:54:10,032 INFO  [localhost-startStop-1][PortletHotDeployListener:492] 1 portlet for web-form-portlet is available for use
+Mai 17, 2016 10:54:10 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMATION: Deployment of web application directory C:\Masterthesis\liferay-portal-server\tomcat-7.0.62\webapps\web-form-portlet has finished in 1,886 ms
+Mai 17, 2016 10:54:10 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["http-bio-8080"]
+Mai 17, 2016 10:54:10 AM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["ajp-bio-8009"]
+Mai 17, 2016 10:54:10 AM org.apache.catalina.startup.Catalina start
+INFORMATION: Server startup in 110299 ms
+10:54:28,493 WARN  [http-bio-8080-exec-9][code_jsp:?] {code="404", msg="/html/VAADIN/widgetsets/com.vaadin.server.DefaultWidgetSet/com.vaadin.server.DefaultWidgetSet.nocache.js", uri=/html/VAADIN/widgetsets/com.vaadin.server.DefaultWidgetSet/com.vaadin.server.DefaultWidgetSet.nocache.js}
+10:56:57,676 WARN  [http-bio-8080-exec-5][code_jsp:?] {code="404", msg="/html/VAADIN/widgetsets/com.vaadin.server.DefaultWidgetSet/com.vaadin.server.DefaultWidgetSet.nocache.js", uri=/html/VAADIN/widgetsets/com.vaadin.server.DefaultWidgetSet/com.vaadin.server.DefaultWidgetSet.nocache.js}
