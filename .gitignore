@@ -16,3 +16,5 @@ qg-portlet
 /tomcat-7.0.62/work/Catalina/localhost/_/aggregate/http_/html/themes/classic/js/*.jsbrowserId=other&minifierType=js&languageId=en_US&b=6205&t=1463482149116_E_DATA
 /tomcat-7.0.62/work/Catalina/localhost/notifications-portlet/aggregate/http_/notifications-portlet/notifications/js/*.jsbrowserId=other&minifierType=js&languageId=en_US&b=6205&t=1463482423044_E_CONTENT_TYPE
 /tomcat-7.0.62/work/Catalina/localhost/notifications-portlet/aggregate/http_/notifications-portlet/notifications/js/*.jsbrowserId=other&minifierType=js&languageId=en_US&b=6205&t=1463482423044_E_DATA
+/tomcat-7.0.62/logs
+/tomcat-7.0.62/temp
